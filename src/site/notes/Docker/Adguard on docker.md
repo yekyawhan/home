@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docker/adguard-on-docker/"}
+{"dg-publish":true,"Auther":"y3kh","permalink":"/docker/adguard-on-docker/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
