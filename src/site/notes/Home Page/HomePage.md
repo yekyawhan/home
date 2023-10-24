@@ -41,8 +41,8 @@ collapse: open
 >  | File                                                                        | length | tags                                                                |
 > | --------------------------------------------------------------------------- | ------ | ------------------------------------------------------------------- |
 > | [[exploit from kali/Golden Eye Vulnerability.md\|Golden Eye Vulnerability]] | \-     | vulnhub,walkthrought                                                |
-> | [[exploit from kali/Earth -vulnhub.md\|Earth -vulnhub]]                     | \-     | <ul><li>getfullshell</li><li>vulnhub</li><li>walkthrought</li></ul> |
 > | [[exploit from kali/djinn 3 walkthrough.md\|djinn 3 walkthrough]]           | \-     | <ul><li>walkthrought</li><li>vulnhub</li></ul>                      |
+> | [[exploit from kali/Earth -vulnhub.md\|Earth -vulnhub]]                     | \-     | <ul><li>getfullshell</li><li>vulnhub</li><li>walkthrought</li></ul> |
 > 
 { .block-language-dataview}
 ```
@@ -50,4 +50,24 @@ collapse: open
 ### Check Out Build DIY Server
 <iframe width="640" height="480" src="https://www.youtube.com/embed/jOEV8WkmM8w?si=brCtdvVZmsLK1T_T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
 </iframe>
-	
+
+<!-- https://cdn.jsdelivr.net/npm/sakana-widget@2.7.0/lib/sakana.min.css -->
+<!-- https://cdn.jsdelivr.net/npm/sakana-widget@2.7.0/lib/sakana.min.js -->
+<!-- https://cdnjs.cloudflare.com/ajax/libs/sakana-widget/2.7.0/sakana.min.css -->
+<!-- https://cdnjs.cloudflare.com/ajax/libs/sakana-widget/2.7.0/sakana.min.js -->
+
+<link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/sakana-widget@2.7.0/lib/sakana.min.css"
+/>
+<div id="sakana-widget"></div>
+<script>
+  function initSakanaWidget() {
+    new SakanaWidget().mount('#sakana-widget');
+  }
+</script>
+<script
+  async
+  onload="initSakanaWidget()"
+  src="https://cdn.jsdelivr.net/npm/sakana-widget@2.7.0/lib/sakana.min.js"
+></script>
