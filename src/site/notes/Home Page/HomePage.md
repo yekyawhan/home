@@ -22,9 +22,9 @@ collapse: open
 >  | File                                                                                | length | tags                                                                      |
 > | ----------------------------------------------------------------------------------- | ------ | ------------------------------------------------------------------------- |
 > | [[exploit from kali/djinn 3 walkthrough.md\|djinn 3 walkthrough]]                   | \-     | <ul><li>walkthrought</li><li>vulnhub</li></ul>                            |
-> | [[exploit from kali/Earth -vulnhub.md\|Earth -vulnhub]]                             | \-     | <ul><li>getfullshell</li><li>vulnhub</li><li>walkthrought</li></ul>       |
-> | [[exploit from kali/exploit win7.md\|exploit win7]]                                 | \-     | <ul><li>metasploit</li><li>encrypt-decrpyt</li><li>walkthrought</li></ul> |
 > | [[exploit from kali/Fake Message sms (setoolkit).md\|Fake Message sms (setoolkit)]] | \-     | walkthrought                                                              |
+> | [[exploit from kali/exploit win7.md\|exploit win7]]                                 | \-     | <ul><li>metasploit</li><li>encrypt-decrpyt</li><li>walkthrought</li></ul> |
+> | [[exploit from kali/Earth -vulnhub.md\|Earth -vulnhub]]                             | \-     | <ul><li>getfullshell</li><li>vulnhub</li><li>walkthrought</li></ul>       |
 > | [[exploit from kali/Golden Eye Vulnerability.md\|Golden Eye Vulnerability]]         | \-     | vulnhub,walkthrought                                                      |
 > 
 { .block-language-dataview}
@@ -41,8 +41,8 @@ collapse: open
 >  | File                                                                        | length | tags                                                                |
 > | --------------------------------------------------------------------------- | ------ | ------------------------------------------------------------------- |
 > | [[exploit from kali/Golden Eye Vulnerability.md\|Golden Eye Vulnerability]] | \-     | vulnhub,walkthrought                                                |
-> | [[exploit from kali/djinn 3 walkthrough.md\|djinn 3 walkthrough]]           | \-     | <ul><li>walkthrought</li><li>vulnhub</li></ul>                      |
 > | [[exploit from kali/Earth -vulnhub.md\|Earth -vulnhub]]                     | \-     | <ul><li>getfullshell</li><li>vulnhub</li><li>walkthrought</li></ul> |
+> | [[exploit from kali/djinn 3 walkthrough.md\|djinn 3 walkthrough]]           | \-     | <ul><li>walkthrought</li><li>vulnhub</li></ul>                      |
 > 
 { .block-language-dataview}
 ```
