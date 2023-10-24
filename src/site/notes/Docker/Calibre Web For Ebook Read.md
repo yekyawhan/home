@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/docker/calibre-web-for-ebook-read/","tags":["dockerio"]}
+{"tags":["dockerio"],"dg-publish":true,"permalink":"/docker/calibre-web-for-ebook-read/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
