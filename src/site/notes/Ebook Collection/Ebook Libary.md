@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ebook-collection/ebook-libary/"}
+{"dg-publish":true,"permalink":"/ebook-collection/ebook-libary/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
