@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/colum/"}
+{"dg-publish":true,"permalink":"/colum/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 > [!multi-column]
