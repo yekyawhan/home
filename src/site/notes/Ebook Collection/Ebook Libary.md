@@ -3,16 +3,6 @@
 ---
 
 
-
-```test
-dataview
-Table ("![|50](" + cover_url + ")") as Cover, author as Author, total_page as "Pages", tags as "Category", tags as "TAGS"
-From "Ebook Libary"
-where contains(status,"To Read")
-```
-
----
----
 ## Upload ဖိုင်းအားလုံးကိုဖေါ်ပြထားခြင်း
 | File                                                                                | Cover       | Author | Pages | TAGS                                                                      |
 | ----------------------------------------------------------------------------------- | ----------- | ------ | ----- | ------------------------------------------------------------------------- |
@@ -28,3 +18,14 @@ where contains(status,"To Read")
 | [[Home Page/HomePage\|HomePage]]                                                 | ![\|50](\-) | \-     | \-    | \-                                                                        |
 
 { .block-language-dataview}
+
+<div id="sakana-widget"></div>
+<script
+  defer
+  src="https://cdn.jsdelivr.net/npm/sakana-widget@2.0.1/lib/sakana.min.js"
+></script>
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    new SakanaWidget().mount('#sakana-widget');
+  });
+</script>
