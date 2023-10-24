@@ -15,7 +15,7 @@
 >> - Vitae nunc sed velit dignissim sodales.
 >> - In cursus turpis massa tincidunt dui ut ornare lectus.
 >
->> [!todo]+
+>> [!todo]+ 
 >> - [ ] Define Use Case 
 >> - [ ] Craft User Story
 >> - [ ] Develop draft sketches
