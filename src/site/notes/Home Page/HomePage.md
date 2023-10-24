@@ -13,7 +13,9 @@ collapse: open
 >  | File                                                                 | Auther | tags                       |
 > | -------------------------------------------------------------------- | ------ | -------------------------- |
 > | [[Docker/Adguard on docker.md\|Adguard on docker]]                   | y3kh   | \-                         |
+> | [[Docker/alpine setup indocker.md\|alpine setup indocker]]           | \-     | dockerio                   |
 > | [[Docker/Calibre Web For Ebook Read.md\|Calibre Web For Ebook Read]] | \-     | <ul><li>dockerio</li></ul> |
+> | [[Docker/go2rtc.md\|go2rtc]]                                         | \-     | \-                         |
 > 
 { .block-language-dataview}
 
