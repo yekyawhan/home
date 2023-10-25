@@ -78,7 +78,13 @@ collapse: open
 { .block-language-dataview}
 ```
 
->### "လက်ညစ်ပတ်လျှင် ဆေးလို့ပြောင်တယ်... စိတ်ညစ်ပတ်လျှင်ဆေးလို့မပြောင်"
 ### Check Out Build DIY Server
 <iframe width="640" height="480" src="https://www.youtube.com/embed/jOEV8WkmM8w?si=brCtdvVZmsLK1T_T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
 </iframe>
+
+
+
+
+
+
+>### "လက်ညစ်ပတ်လျှင် ဆေးလို့ပြောင်တယ်... စိတ်ညစ်ပတ်လျှင်ဆေးလို့မပြောင်"
