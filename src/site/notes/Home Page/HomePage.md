@@ -78,6 +78,11 @@ collapse: open
 { .block-language-dataview}
 ```
 
+
+![skeleton-waiting.gif|undefined](/img/user/Wallpaper/icon/skeleton%20gif%20pack-emojigg-pack/skeleton-waiting.gif)	![skeleton-chairspin.gif|undefined](/img/user/Wallpaper/icon/skeleton%20gif%20pack-emojigg-pack/skeleton-chairspin.gif)
+
+
+
 ### Check Out Build DIY Server
 <iframe width="640" height="480" src="https://www.youtube.com/embed/jOEV8WkmM8w?si=brCtdvVZmsLK1T_T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
 </iframe>
@@ -88,4 +93,3 @@ collapse: open
 
 
 >### "လက်ညစ်ပတ်လျှင် ဆေးလို့ပြောင်တယ်... စိတ်ညစ်ပတ်လျှင်ဆေးလို့မပြောင်"
->![7534-skeleton-chairspin.gif|undefined](/img/user/Wallpaper/icon/skeleton%20gif%20pack-emojigg-pack/7534-skeleton-chairspin.gif)
