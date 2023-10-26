@@ -89,4 +89,3 @@ collapse: open
 
 >### "လက်ညစ်ပတ်လျှင် ဆေးလို့ပြောင်တယ်... စိတ်ညစ်ပတ်လျှင်ဆေးလို့မပြောင်"
 >![7534-skeleton-chairspin.gif|undefined](/img/user/Wallpaper/icon/skeleton%20gif%20pack-emojigg-pack/7534-skeleton-chairspin.gif)
->
