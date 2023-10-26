@@ -16,7 +16,7 @@
 >> - In cursus turpis massa tincidunt dui ut ornare lectus.
 >
 >> [!todo]+ 
->> - [ ] Define Use Case 
->> - [ ] Craft User Story
->> - [ ] Develop draft sketches
+>> - [x] Define Use Case [completion:: 26-36-2023]
+>> - [x] Craft User Story [completion:: 26-36-2023]
+>> - [x] Develop draft sketches [completion:: 26-36-2023]
 
