@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"Auther":"y3kh","permalink":"/docker/adguard-on-docker/","dgPassFrontmatter":true,"noteIcon":""}
+{"dg-publish":true,"Auther":"y3kh","tags":["dockerio"],"permalink":"/docker/adguard-on-docker/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
@@ -12,7 +12,6 @@
 
 ```yaml
 version: '3'  # Specify the Docker Compose version
-
 services:
   adguardhome:  # Define the service named 'adguardhome'
     image: adguard/adguardhome  # Use the 'adguard/adguardhome' Docker image
@@ -22,35 +21,25 @@ services:
       # Expose port 53 on TCP and UDP for DNS queries
       - "53:53/tcp"
       - "53:53/udp"
-
       # Expose port 67 on UDP for DHCP server
       - "67:67/udp"
-
       # Expose port 68 on UDP for DHCP client
       # - "68:68/udp"
-
       # Expose port 80 on TCP for HTTP web interface
       - "80:80/tcp"
-
       # Expose port 443 on TCP and UDP for HTTPS web interface
       - "4434:443/tcp"
       - "4434:443/udp"
-
       # Expose port 3000 on TCP for AdGuard Home's API
       - "3000:3000/tcp"
-
       # Expose port 853 on TCP for DNS-over-TLS (DoT)
       - "853:853/tcp"
-
       # Expose port 784 on UDP for DNS-over-QUIC (DoQ)
       - "784:784/udp"
-
       # Expose port 853 on UDP for DNS-over-DTLS (DoT)
       - "853:853/udp"
-
       # Expose port 8853 on UDP for DNS-over-TLS (DoT)
       - "8853:8853/udp"
-
       # Expose port 5443 on TCP and UDP for DNSCrypt
       - "5443:5443/tcp"
       - "5443:5443/udp"
@@ -61,18 +50,17 @@ services:
 
 
 
-```
+
 ```sh
 docker run --name adguardhome\
     --restart unless-stopped\
     -v /my/own/workdir:/opt/adguardhome/work\
     -v /my/own/confdir:/opt/adguardhome/conf\
     -p 53:53/tcp -p 53:53/udp\
-    -p 67:67/udp -p 68:68/udp\
-    -p 80:80/tcp -p 443:443/tcp -p 443:443/udp -p 3000:3000/tcp\
+    -p 67:67/udp -p 69:68/udp\
+    -p 82:80/tcp -p 445:443/tcp -p 445:443/udp -p 3000:3000/tcp\
     -p 853:853/tcp\
     -p 784:784/udp -p 853:853/udp -p 8853:8853/udp\
     -p 5443:5443/tcp -p 5443:5443/udp\
     -d adguard/adguardhome
-```
 ```
