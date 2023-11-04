@@ -44,16 +44,16 @@ collapse: open
 > | [[Everything About LINUX/crontab schedule.md\|crontab schedule]]                                                                                         | \-     | \-       |
 > | [[Everything About LINUX/Disk Expand  Kali Linux.md\|Disk Expand  Kali Linux]]                                                                           | \-     | \-       |
 > | [[Everything About LINUX/essential Command Line setup linux guide.md\|essential Command Line setup linux guide]]                                         | \-     | \-       |
-> | [[Everything About LINUX/Free contrib  and repo.md\|Free contrib  and repo]]                                                                             | \-     | \-       |
 > | [[Everything About LINUX/Fix Repository Does Not Have Release File Error.md\|Fix Repository Does Not Have Release File Error]]                           | \-     | \-       |
-> | [[Everything About LINUX/How to install Tar.gz programs in Linux.md\|How to install Tar.gz programs in Linux]]                                           | \-     | \-       |
-> | [[Everything About LINUX/How to fix Ubuntu apt-get stuck at 0.md\|How to fix Ubuntu apt-get stuck at 0]]                                                 | \-     | \-       |
+> | [[Everything About LINUX/Free contrib  and repo.md\|Free contrib  and repo]]                                                                             | \-     | \-       |
 > | [[Everything About LINUX/Get Terminal pro.md\|Get Terminal pro]]                                                                                         | \-     | \-       |
+> | [[Everything About LINUX/How to fix Ubuntu apt-get stuck at 0.md\|How to fix Ubuntu apt-get stuck at 0]]                                                 | \-     | \-       |
+> | [[Everything About LINUX/How to install Tar.gz programs in Linux.md\|How to install Tar.gz programs in Linux]]                                           | \-     | \-       |
 > | [[Everything About LINUX/java installion jdk8.md\|java installion jdk8]]                                                                                 | \-     | Java     |
 > | [[Everything About LINUX/kali fix ip address if not obtain ip.md\|kali fix ip address if not obtain ip]]                                                 | \-     | \-       |
-> | [[Everything About LINUX/linux network address ရယူနည်း.md\|linux network address ရယူနည်း]]                                                               | \-     | \-       |
-> | [[Everything About LINUX/Kali purple Tools install.md\|Kali purple Tools install]]                                                                       | \-     | \-       |
 > | [[Everything About LINUX/Kali Linux Update error (Could not connect to http.kali.org).md\|Kali Linux Update error (Could not connect to http.kali.org)]] | \-     | \-       |
+> | [[Everything About LINUX/Kali purple Tools install.md\|Kali purple Tools install]]                                                                       | \-     | \-       |
+> | [[Everything About LINUX/linux network address ရယူနည်း.md\|linux network address ရယူနည်း]]                                                               | \-     | \-       |
 > | [[Everything About LINUX/MAC changer.md\|MAC changer]]                                                                                                   | \-     | \-       |
 > | [[Everything About LINUX/mount iso.md\|mount iso]]                                                                                                       | \-     | \-       |
 > | [[Everything About LINUX/mount nfs and cifs.md\|mount nfs and cifs]]                                                                                     | \-     | cifs-nfs |
