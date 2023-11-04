@@ -6,7 +6,7 @@
 
 - vmware အဆို အရ တော့linux အတွက်က ကြိုတင်သွင်းထားပြီးဖြစ်တယ်
 
-
+![Pasted image 20231104193939.png|undefined](/img/user/Images%20All/Pasted%20image%2020231104193939.png)
 
 # On Windows?
 	သူလည်းကြိုသွင်းသားပဲ hardware မှာ declare မလုပ်ထားလို့ သာ ဖြစ်တယ်
