@@ -11,10 +11,10 @@
 sudo mount -t nfs 192.168.0.196:/volume1/video/Ebook /ebook
 ```
 ```
-sudo mount -t cifs -o username=yekyawhan //192.168.0.196/video /video
+sudo mount -t cifs -o username=username //192.168.0.196/video /video
 ```
 
-	sudo mount -t cifs -o username=yekyawhan //192.168.0.196/usbshare1 /home/y3kh/mnt/test-ykh
+	sudo mount -t cifs -o username=username //192.168.0.196/usbshare1 /home/y3kh/mnt/test-ykh
 
 ### temporaty method
 ```
@@ -48,7 +48,7 @@ sudo mount -t cifs //server/share /mnt/mountpoint -o username=your_username,pass
 	create password file on 
 	sudo chmod 777 video
 	/home/y3kh/mnt/.pass
-	username=yekywhan
+	username=user_name
 	password=password
 
 ```shell
@@ -58,7 +58,7 @@ sudo mount -t cifs //server/share /mnt/mountpoint -o username=your_username,pass
 	df -h
 ### nfs folder mount on windows system
 
-	mount -o -u:yekyawhan \\192.168.0.196\volume1\video t:
+	mount -o -u:username \\192.168.0.196\volume1\video t:
 
 this method for anon method ok by y3kh
 
