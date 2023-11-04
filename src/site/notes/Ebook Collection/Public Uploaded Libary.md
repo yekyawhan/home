@@ -46,10 +46,10 @@
 | [[exploit from kali/exploit win7\|exploit win7]]                                                                                                      | ![\|50](\-) | \-     | \-    | <ul><li>metasploit</li><li>encrypt-decrpyt</li><li>walkthrought</li></ul> |
 | [[exploit from kali/Fake Message sms (setoolkit)\|Fake Message sms (setoolkit)]]                                                                      | ![\|50](\-) | \-     | \-    | walkthrought                                                              |
 | [[exploit from kali/Golden Eye Vulnerability\|Golden Eye Vulnerability]]                                                                              | ![\|50](\-) | \-     | \-    | vulnhub,walkthrought                                                      |
-| [[Home Assistant Add on  Samba Backup/Home Assistant Add Samba Backup\|Home Assistant Add Samba Backup]]                                              | ![\|50](\-) | \-     | \-    | <ul><li>homeassist</li></ul>                                              |
 | [[Home Page/HomePage\|HomePage]]                                                                                                                      | ![\|50](\-) | \-     | \-    | \-                                                                        |
-| [[Vmware Workstation Pro/vmware network driver manual installion\|vmware network driver manual installion]]                                           | ![\|50](\-) | \-     | \-    | <ul><li>vmware</li></ul>                                                  |
+| [[Home Assistant Add on  Samba Backup/Home Assistant Add Samba Backup\|Home Assistant Add Samba Backup]]                                              | ![\|50](\-) | \-     | \-    | <ul><li>homeassist</li></ul>                                              |
 | [[Vmware Workstation Pro/vmware Network Driver Fix 2nd way\|vmware Network Driver Fix 2nd way]]                                                       | ![\|50](\-) | \-     | \-    | <ul><li>vmware</li></ul>                                                  |
+| [[Vmware Workstation Pro/vmware network driver manual installion\|vmware network driver manual installion]]                                           | ![\|50](\-) | \-     | \-    | <ul><li>vmware</li></ul>                                                  |
 
 { .block-language-dataview}
 
