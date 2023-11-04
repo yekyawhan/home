@@ -5,7 +5,7 @@
 # On Linux ?
 vmware အဆို အရ တော့linux အတွက်က ကြိုတင်သွင်းထားပြီးဖြစ်တယ်
 
-![Pasted image 20231104193939.png|800](/img/user/Images%20All/Pasted%20image%2020231104193939.png)
+![Pasted image 20231104193939.png|undefined](/img/user/Images%20All/Pasted%20image%2020231104193939.png)
 
 # On Windows?
 သူလည်းကြိုသွင်းသားပဲ hardware မှာ declare မလုပ်ထားလို့ သာ ဖြစ်တယ်
@@ -14,9 +14,9 @@ vmware အဆို အရ တော့linux အတွက်က ကြိုတ�
 predefine လုပ်ပေးရုံပဲ အခု က hardware အသစ်တွေ ထည့်မယ်ဆိုမှာသာ ["ဒီလင့်နေရာက"](https://y3kh.vercel.app/vmware-workstation-pro/vmware-network-driver-manual-installion/) သွင်းနိုင်တယ်  
 
 *Before*  
-![Pasted image 20231104200104.png|800](/img/user/Images%20All/Pasted%20image%2020231104200104.png)
+![Pasted image 20231104200104.png|undefined](/img/user/Images%20All/Pasted%20image%2020231104200104.png)
 
 
 *After*
-![Pasted image 20231104200427.png|800](/img/user/Images%20All/Pasted%20image%2020231104200427.png)
+![Pasted image 20231104200427.png|undefined](/img/user/Images%20All/Pasted%20image%2020231104200427.png)
 *ခုပုံက predefine လုပ်ပြီး နက်ဝေါ့ရနေပုံ ပါ*
