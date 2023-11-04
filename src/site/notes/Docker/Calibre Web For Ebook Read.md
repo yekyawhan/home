@@ -50,12 +50,14 @@ Kavita လောက်သိပ်မကြိုက် သို့ပေမယ
 
 - [Docker Hub](https://hub.docker.com/r/linuxserver/calibre-web)
 
-```dockercli
+```shell
 docker run -d \
---name=calibre-web \
+--name=calibre \
 -e PUID=1000 \
--e PGID=1001 \
+-e PGID=1000 \
 -e TZ=Asia/Yangon \
+-e DOCKER_MODS=linuxserver/mods:universal-calibre `#optional` \
+-e OAUTHLIB_RELAX_TOKEN_SCOPE=1 `#optional` \
 -p 8083:8083 \
 -v /mnt/data:/config \
 -v /mnt/ebook:/books \
@@ -65,3 +67,5 @@ lscr.io/linuxserver/calibre-web:latest
 
 
 
+
+linuxserver/calibre:latest|
