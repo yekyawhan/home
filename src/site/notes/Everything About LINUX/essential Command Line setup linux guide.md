@@ -22,7 +22,7 @@ sudo snap install telegram-desktop
 	this commennt must be home diretory
 	cat .zsh
 	nano .zshrc
-	smbclient -U yekyawhan //192.168.0.196/video
+	smbclient -U username //192.168.0.196/video
 	
 	lsb_release -a
 	apt install pwn
