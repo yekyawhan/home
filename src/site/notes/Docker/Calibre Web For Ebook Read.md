@@ -3,7 +3,7 @@
 ---
 
 
-not good 
+Kavita လောက်သိပ်မကြိုက် သို့ပေမယ့် ကောင်းတယ်
 
 [![Main screen](https://github.com/janeczku/calibre-web/wiki/images/main_screen.png)](https://github.com/janeczku/calibre-web/wiki/images/main_screen.png)
 
