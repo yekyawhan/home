@@ -5,13 +5,13 @@
 
 	sudo -i
 	passwd root
-	pkill -u yekyawhan
+	pkill -u y3kh
 
 try to log in root and passwd gui
 
 	 usermod –l y3kh –d /home/yekyawhan –m yekyawhan
 	 groupmod -n y3kh yekyawhan
-	sudo ln -s /home/y3kh /home/yekyawhan
+	sudo ln -s /home/y3kh /home/y3kh
 	sudo chfn -f "y3kh-kali" y3kh
 
 cat /etc/passwd
