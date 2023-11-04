@@ -3,7 +3,7 @@
 ---
 
 
-## **pnputil**
+## pnputil
 
 - Run below command as administrator:
 
@@ -15,14 +15,14 @@ pnputil /add-driver _<a full path to the inf file>_ /install    _or_   
 **Note:**  
 System reboot may be required to complete the operation.
 
-#### _**Notes:**_
+#### Notes
 
 - _Some drivers may requires restart OS after install driver successfully._
 - _Verify if your driver runs normally (in Device Manager or System Information) after installing please._
 
-# **Uninstall**
+## Uninstall
 
-## **Device Manager**
+## Device Manager
 
 1. Launch Device Manager.
 2. Right-click the device you want to uninstall.
