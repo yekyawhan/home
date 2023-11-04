@@ -22,7 +22,7 @@ System reboot may be required to complete the operation.
 
 ## Uninstall
 
-## Device Manager
+### Device Manager
 
 1. Launch Device Manager.
 2. Right-click the device you want to uninstall.
