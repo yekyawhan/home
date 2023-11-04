@@ -37,8 +37,9 @@ sudo mount -t cifs //server/share /mnt/mountpoint -o username=your_username,pass
 
 ### cifs method (working no pass)
 
-sudo nano /etc/fstab
-\\192.168.0.6\d /home/y3kh/mnt/ykh-desktop cifs
+```
+\\192.168.0.6\d /home/y3kh/mnt/desktop cifs
+```
 
 ### cifs setup on kali-linux (is working y3kh)
 
@@ -76,3 +77,16 @@ this method for anon method ok by y3kh
 192.168.0.196:volume1/music /mnt/music nfs
 192.168.0.196:volume1/Ebook /mnt/ebook nfs
 ```
+
+```
+//192.168.0.6/d /home/y3kh/mnt/desktop cifs  credentials=/home/y3kh/mnt/.pass,file_mode=0755,dir_mode=0755 0       0
+```
+
+### I tested the following command successfully:
+
+```
+sudo mount -t cifs -o guest //192.168.0.6/d /home/y3kh/mnt/desktop
+```
+
+sudo mount -t cifs //192.168.0.6/d /home/y3kh/mnt/desktop -o guest
+
