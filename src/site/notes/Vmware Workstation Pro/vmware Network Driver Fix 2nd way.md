@@ -14,10 +14,10 @@
 	ခုနောက်ပိုင်း မှာတော့ အားလုံးအဆင်ပြလာပြီ eg: 14,15,16,17 
 	predefine လုပ်ပေးရုံပဲ အခု က hardware အသစ်တွေ ထည့်မယ်ဆိုမှာသာ ["ဒီလင့်နေရာက"](https://y3kh.vercel.app/vmware-workstation-pro/vmware-network-driver-manual-installion/) သွင်းနိုင်တယ်  
 
-*Before*  
+***Before***
 ![Pasted image 20231104200104.png|undefined](/img/user/Images%20All/Pasted%20image%2020231104200104.png)
 
 
-*After*
+***After***
 ![Pasted image 20231104200427.png|undefined](/img/user/Images%20All/Pasted%20image%2020231104200427.png)
 *ခုပုံက predefine လုပ်ပြီး နက်ဝေါ့ရနေပုံ ပါ*
