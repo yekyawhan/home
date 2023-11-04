@@ -25,6 +25,7 @@
 4. Windows will prompt you to confirm the device’s removal. Check "Delete the driver software for this device", click OK to remove the driver.
 
 
+
 - Run below command as administrator:
 
 ```shell
