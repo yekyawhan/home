@@ -80,7 +80,7 @@ collapse: open
 ```
 
 
-![skeleton-waiting.gif|undefined](/img/user/Wallpaper/icon/skeleton%20gif%20pack-emojigg-pack/skeleton-waiting.gif)	![skeleton-chairspin.gif|undefined](/img/user/Wallpaper/icon/skeleton%20gif%20pack-emojigg-pack/skeleton-chairspin.gif)
+![skeleton-waiting.gif|undefined](/img/user/Wallpaper/icon/skeleton%20gif%20pack-emojigg-pack/skeleton-waiting.gif)	![skeleton-chairspin.gif|undefined](/img/user/Wallpaper/icon/skeleton%20gif%20pack-emojigg-pack/skeleton-chairspin.gif) ![skeleton-computer.gif|undefined](/img/user/Wallpaper/icon/skeleton%20gif%20pack-emojigg-pack/skeleton-computer.gif)
 
 
 
