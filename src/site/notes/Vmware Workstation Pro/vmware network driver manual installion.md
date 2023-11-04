@@ -11,8 +11,8 @@
 
 **Note:**  
 - System reboot may be required to complete the operation.
-- - _Some drivers may requires restart OS after install driver successfully._
-- _Verify if your driver runs normally (in Device Manager or System Information) after installing please._
+- Some drivers may requires restart OS after install driver successfully.
+- Verify if your driver runs normally (in Device Manager or System Information) after installing please.
 
 
 # Uninstall
