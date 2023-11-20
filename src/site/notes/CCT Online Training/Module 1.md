@@ -64,13 +64,23 @@
 >>```
 
 ---
+# Types of Trojans (1)
 
 >[!multi-column]
+>> [!help]+ Trojans တိုက်ခိုက်ခံရပြီဆိုရင်
+>> - The computer **screen blink**s, flips
+>>  upside-down, or is inverted so that
+>>  everything is **displayed backward**
+>>- The **default background** or wal lpaper settings **change automatically**
+>>-  Web pages **suddenly open** without input from the user
+>>-  The **color settings** of the operating system (OS) **change automatically**
+>>-  **Antivirus** programs are **automatically disabled**
+>>-  **Pop**-ups with bizarre messages **suddenly appear**
+>
 >>```ad-note
->>title: Types of Trojans (1)
+>>title: Trojans အမျိုးအစားများ
 >>collapse: open 
->>##### Trojans are categories according to their functioning and targets  
->>Some of the example includes:  
+>>*according to their functioning and targets Some of the example includes*:  
 >>1 Remote Access Trojans   
 >>2 Backdoor Trojans
 >>3 Botnet Trojans   
@@ -87,8 +97,8 @@
 >>14 Command Shell Trojans
 >>```
 >
->>```ad-caution
->>title: Creating a Trojan
+>>```ad-bug
+>>title: Trojan ဖန်တီးခြင်း
 >>collapse: open
 >>Some additional Trojan horse construction kit s are as follows:  
 >>- [ ] DarkHorse Trojan Virus Maker  
@@ -96,18 +106,17 @@
 >>- [ ] Senna Spy Trojan Generator  
 >>- [ ] Batch Trojan Generator
 >>- [ ] Umbra Loader - Botnet Trojan Maker  
->>Exam 212-82  
->>Module 01 Page 46 
+>>Exam 212-82 
 >>```
 
 ![Creating a Trojan.png|undefined](/img/user/Images%20All/cct-images/Creating%20a%20Trojan.png)
 *စာမျက်နှာ-43-စာရွက်-58*
 
 ---
-
+# Virus? (2)
 ```ad-note
 collapse: open
-title: What is a Virus? (2)
+title: ဗိုင်းရပ်ဆိုတာ 
 - [ ] Infects other programs  
 - [ ] Transforms itself  
 - [ ] Encrypts it self  
