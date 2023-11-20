@@ -1,0 +1,15 @@
+.table-row-cell:filled {
+    -fx-background-color: lime;
+}
+
+.table-row-cell:filled:selected {
+    -fx-background-color: -fx-selection-bar;
+}
+
+.table-row-cell:filled:removed {
+    -fx-background-color: orange;
+}
+
+.table-row-cell:filled:removed:selected {
+    -fx-background-color: -fx-selection-bar;
+}
