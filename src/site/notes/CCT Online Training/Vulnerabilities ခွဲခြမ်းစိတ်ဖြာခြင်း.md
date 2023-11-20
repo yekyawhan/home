@@ -44,9 +44,9 @@
 
 
 > [!multi-column]
->>![Pasted image 20231120222721.png|undefined](/img/user/Images%20All/cct-images/Pasted%20image%2020231120222721.png)
+>>![Pasted image 20231120222721.png](/img/user/Images%20All/cct-images/Pasted%20image%2020231120222721.png)
 >
->>![Pasted image 20231120222748.png|undefined](/img/user/Images%20All/cct-images/Pasted%20image%2020231120222748.png)
+>>![Pasted image 20231120222748.png](/img/user/Images%20All/cct-images/Pasted%20image%2020231120222748.png)
 
 *စာမျက်နှာ 126 page 122 *
 
