@@ -242,33 +242,63 @@
 # Rootkits (5)
 
 > [!multi-column]
->
->> [!note]+ အ 
+>> [!abstract]+ Rootltits ဆိုတာ 
 >>- Rootkits are programs that **hide their presence** as well as attacker's malicious activities, granting them full access to the server or host at that time, and in the future 
 >>- Rootkits replace certain operating system calls and utilities with their ow n **modified versions** of those routines that, in turn, undermine the security of the target system causing malicious functions to be executed 
 >>- A typical rootkit comprises of backdoor programs, DDoS programs, packet sniffers, log-wiping utilities, I RC bots, etc.
 >
->> [!note]+ The attacker places a rootltit by
->>□ Scanning for **vulnerable** computers and servers on the web 
->>□ **Wrapping** it in a special package like a game 
->>□ Installing it on public computers or corporate computers through **social engineering** 
->>□ Launching a **zero-day attack** (privilege escalation, buffer overflow, Windows kernel exploitation, etc.)
+>>[!tip]+ ⚓The attacker places a rootltit by
+>>Scanning for **vulnerable** computers and servers on the web 
+>>**Wrapping** it in a special package like a game 
+>>Installing it on public computers or corporate computers through **social engineering** 
+>>Launching a **zero-day attack** (privilege escalation, buffer overflow, Windows kernel exploitation, etc.)
 >
->> [!note]+ Objectives of a rootkit:
->> □ To **root** the host system and **gain remote backdoor** access 
->> □ To mask **attacker tracks** and presence of malicious applications or processes 
->> □ To gather **sensitive data, network traffic**, etc. from the system to which attackers might be restricted or possess no access 
->> □ To store other **malicious programs** on the system and act as a server resource for bot updates
->
->>[!tip]+ Popular Rootkits
->>- [ ] LoJax is a type of UEFI rootkit that is widely used by attackers to perform cyber-attacks. LoJax is created to inject malware into the system and is automatically executed whenever the system starts up. It exploits UEFI, which acts as an interface between the OS and the firmware. It is extremely challenging to detect LoJax as it evades traditional security controls and maintains its persistence even after OS reinstallation or hard disk replacement
->>- [ ] Scranos is a trojanized rootkit that masquerades as cracked software or a legitimate application, such as anti-malware, a video player, or an ebook reader, to infect systems and perform data exfiltration that damages the reputation of the target and steals intellectual property. When this rootkit executed, a rootkit driver is automatically installed, which then starts installing other malicious components into the system. Apart from installing malicious components, Scranos also interacts with various websites on the behalf of the victim
->>***Module 01 Page 76***
+>>[!tip]+ ⚓Objectives of a rootkit:
+>>To **root** the host system and **gain remote backdoor** access 
+>>To mask **attacker tracks** and presence of malicious applications or processes 
+>>To gather **sensitive data, network traffic**, etc. from the system to which attackers might be restricted or possess no access 
+>>To store other **malicious programs** on the system and act as a server resource for bot updates
+
+
+>[!bug]+ အသုံးများသောRootkits Tools
+>- [ ] LoJax is a type of UEFI rootkit that is widely used by attackers to perform cyber-attacks. LoJax is created to inject malware into the system and is automatically executed whenever the system starts up. It exploits UEFI, which acts as an interface between the OS and the firmware. It is extremely challenging to detect LoJax as it evades traditional security controls and maintains its persistence even after OS reinstallation or hard disk replacement
+>-  Collect and save all the system settings in a text file 
+>-  Access the contents of the system's Serial Peripheral Interface (SPI) memory that contains a UEFI/ BIOS location and save it as a firmware image 
+>-  Embed a malicious UEFI module (rootkit) into the firmware image and then save the firmware image in the SPI flash memory
+>- [ ] Scranos is a trojanized rootkit that masquerades as cracked software or a legitimate application, such as anti-malware, a video player, or an ebook reader, to infect systems and perform data exfiltration that damages the reputation of the target and steals intellectual property. When this rootkit executed, a rootkit driver is automatically installed, which then starts installing other malicious components into the system. Apart from installing malicious components, Scranos also interacts with various websites on the behalf of the victim>>- The dropper steals critical information such as login credentials, cookies, and payment information using specialized DLLs and sends back the data to a command and control (C&C) server
+>- The dropper installs a rootkit into the system
+>- The rootkit registers a shutdown callback to achieve persistence. At shutdown, the driver is written to disk, and a start-up service key is created in the registry.>>- The rootkit injects a downloader into an svchost.exe process
+>- The downloader sends some information about the system to the C&C and receives download links
+>- Payloads are downloaded and executed automatically
+>- Source: https://www.welivesecurity.com
+>- Source: https:// www.bitdefender.com
+>***Module 01 Page 76***
+
+
 ---
 
 # PUAs or Grayware (6)
 
-![Pasted image 20231119044359.png|600](/img/user/Images%20All/cct-images/Pasted%20image%2020231119044359.png) ![Pasted image 20231119044420.png|600](/img/user/Images%20All/cct-images/Pasted%20image%2020231119044420.png)
+>[!multi-column]
+>>[!note]+ Potentially Unwanted Application or Applications (PUAs)
+>>- Also known as **grayware** or junkware, are potentially harmful applications that may pose severe risks to the security and privacy of data stored in the system where they are installed
+>>- Installed when downloading and **installing freeware** using a third-party installer or when accepting a misleading license agreement
+>>- Covertly **monitor** and **alter the data** or settings in the system, similarly to other malware
+>>- TypesofPUAs
+>>- [ ] Adware
+>>- [ ] Torrent
+>>- [ ] Marketing
+>>- [ ] Cryptomining
+>>- [ ] Dialers
+>
+>>[!hint]+ 
+>> Types of PUAs 
+>> ■ Adware: These PUAs display unsolicited advertisements offering free sales and pop-ups of online services when browsing websites. They may disturb normal activities and lure victims into clicking on malicious U Rls. They may also issue bogus reminders regarding outdated software or OS. 
+>> ■ Torrent: When using torrent applications for downloading large files, the user may be compelled to download unwanted programs that have features of peer-to-peer file sharing. 
+>> ■ Marketing: Marketing PUAs monitor the online activities performed by users and send browser details and information regarding personal interests to third-party app owners. These applications then market products and resources based on users' personal interests. 
+>> ■ Cryptomining: Cryptomining PUAs make use of the victims' personal assets and financial data on the system and perform the digital mining of cryptocurrencies such as bitcoins
+>> ■ Dialers: Dialers or spyware dialers are programs that get installed and configured in a system automatically to call a set of contacts at several locations without the user's consent. Dialers cause massive telephone bills and are sometimes very difficult to locate and delete.
+
 
 
 ---
@@ -276,7 +306,7 @@
 
 ![Pasted image 20231119044750.png|500](/img/user/Images%20All/cct-images/Pasted%20image%2020231119044750.png) ![Pasted image 20231119044820.png|500](/img/user/Images%20All/cct-images/Pasted%20image%2020231119044820.png)
 
-```ad-hint
+```ad-bug
 title: Spyware Tools
 collapse: open
 - Spytech SpyAgent
@@ -292,11 +322,20 @@ Source: https://ematrixsoft.com
 > [!multi-column]
 > 
 >>```ad-abstract
->>title: Key Logger 
+>>title: Key-Logger ဆိုတာ 
 >>collapse: open
 >>- Keystroke loggers are programs or hardware devices that **monitor each keystroke** as the user types on a keyboard, logs onto a file, or transmits them to a remote location
 >>- It allows the attacker to **gather confidential information** about t he victim such as email ID, passwords, banking details, chat room activity, IRC, and instant messages
 >>```
+>>```ad-example
+>>title: keylogger ကဘာလုပ်လို့ရလဲ
+>>collapse: open
+>>-  **Record every keystroke** typed on the user's keyboard
+>>- **Capture screenshots** at regular intervals, showing user activity such as typed characters
+>>- **Track the activities** of users by logging Window titles, names of launched applications, etc.
+>>- Monitor the **online activity** of users by recording addresses of the websites visited
+>>- Record all **login names**, bank and credit card numbers, and passwords
+>>- **Record** online chat **conversations**
 >
 >>```ad-bug
 >>title: Tools
@@ -307,7 +346,7 @@ Source: https:// www.spyrix.com
 >>- [ ] Spyrix Keylogger Free is used for **remote monitoring** on your PC that includes recording of keystrokes
 >>**Keyloggers for Mac**
 >>- [ ] Refog Mac Keylogger provides undetected surveillance and **records all the keystrokes** on t he computer
->>***Some of the keyloggers for Windows are listed as follows***: 
+>>***Windows မှာ keyloggers လုပ်နိုင်သောဆိုဒ်များ***  
 >>- REFOG Personal Monitor (https://www.refog.com) 
 >>- All In One Keylogger (https://www.relytec.com) 
 >>- Elite Keylogger (https://www.elitekeyloggers.com) 
@@ -321,11 +360,10 @@ Source: https:// www.spyrix.com
 # Botnets (9)
 > [!multi-column]
 >>```ad-summary
->>title: Botnets
+>>title: Botnets ဆိုတာ
 >>- A Botnet is a collection of **compromised computers** connected to the Internet to perform a distributed task 
 >>- Attackers distribute malicious software that turns a user's computer into a bot 
 >>- Bot refers to a program or an infected system that performs repetitive work or acts as an agent or as a user interface to control other programs
->
 >>```ad-error
 >>title: Why Attackers use Botnets?
 >>- Perform **DDoS attacks**, which consume the bandwidth of the victim's computers
@@ -334,12 +372,24 @@ Source: https:// www.spyrix.com
 >>- Use to **spread new bots**
 >>- Perpetrate a "**click fraud**" by automating clicks
 >>- Perform mass **identity theft**
->>- **Installing advertisement add-ons**
->>- **Mass identity theft**
->>- **Attacks on IRC chat networks**
->>- **Manipulating online polls and games**
->>- **Mass identity theft**
 >>```
+>
+>>```ad-warning
+>>title:  Attackersဒါမျိုးတွေ အသုံးချနိုင်တယ်
+>>collapse: open
+>>- DDoS attacks
+>>- Spamming
+>>- Sniffing traffic
+>>- Keylogging
+>>- Spreading new malware
+>>- Installing advertisement add-ons
+>>- Google AdSense abuse
+>>- Attacks on IRC chat networks
+>>- Manipulating online polls and games
+>>- Mass identity theft
+>>```
+
+*စာမျက်နှာ-113-စာရွက်-98*
 
 
 
