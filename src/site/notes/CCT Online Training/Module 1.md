@@ -106,6 +106,7 @@
 ---
 
 ```ad-note
+collapse: open
 title: What is a Virus? (2)
 - [ ] Infects other programs  
 - [ ] Transforms itself  
@@ -140,6 +141,7 @@ Purpose of Creating Viruses
 
 #virusmakertools
 ```ad-error
+collapse: open
 title: Virus Maker Tools
 - [ ] DELmE's Batch Virus Maker
 - [ ] JPS Virus Maker
@@ -248,6 +250,7 @@ Source: https://ematrixsoft.com
 >
 >>```ad-bug
 >>title: Tools
+>>collapse: open
 >>- Spyrix Keylogger Free 
 Source: https:// www.spyrix.com
 >>**Keyloggers for Windows**
