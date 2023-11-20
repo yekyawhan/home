@@ -20,7 +20,7 @@
 >🦾 10 Understanding the Classification of Vulnerabilities 
 
 ### Threat Sources
-![Threat Sources.png|undefined](/img/user/Images%20All/cct-images/Threat%20Sources.png)
+![Threat Sources.png](/img/user/Images%20All/cct-images/Threat%20Sources.png)
 
 >[!multi-column]
 >>```ad-bug
@@ -109,7 +109,7 @@
 >>Exam 212-82 
 >>```
 >>*စာမျက်နှာ-43-စာရွက်-58*
->>![Creating a Trojan.png|undefined](/img/user/Images%20All/cct-images/Creating%20a%20Trojan.png)
+>>![Creating a Trojan.png](/img/user/Images%20All/cct-images/Creating%20a%20Trojan.png)
 
 *Trojan port များအား စာမှက်နှာ ၃၇-၅၂ တွင်ကြည့်နိုင်သည်*
 
@@ -157,16 +157,16 @@
 
 
 >[!multi-column]
->>![Purpose of Creating Viruses.png|undefined](/img/user/Images%20All/cct-images/Purpose%20of%20Creating%20Viruses.png)
+>>![Purpose of Creating Viruses.png](/img/user/Images%20All/cct-images/Purpose%20of%20Creating%20Viruses.png)
 >
->>![Indicaations of virus attack.png|undefined](/img/user/Images%20All/cct-images/Indicaations%20of%20virus%20attack.png)
+>>![Indicaations of virus attack.png](/img/user/Images%20All/cct-images/Indicaations%20of%20virus%20attack.png)
 
 >[!multi-column]
->>![stages of virus lifecycle.png|undefined](/img/user/Images%20All/cct-images/stages%20of%20virus%20lifecycle.png)
+>>![stages of virus lifecycle.png](/img/user/Images%20All/cct-images/stages%20of%20virus%20lifecycle.png)
 >
->>![Computer Get Infected by Viruses.png|undefined](/img/user/Images%20All/cct-images/Computer%20Get%20Infected%20by%20Viruses.png)
+>>![Computer Get Infected by Viruses.png](/img/user/Images%20All/cct-images/Computer%20Get%20Infected%20by%20Viruses.png)
 >
->>![Types of viruses.png|undefined](/img/user/Images%20All/cct-images/Types%20of%20viruses.png) 
+>>![Types of viruses.png](/img/user/Images%20All/cct-images/Types%20of%20viruses.png) 
 
 ---
 # Ransom ware (3)
@@ -175,7 +175,7 @@
 >>- A type of malware that restricts access to the computer system's **files and folders**
 >>- Demands an on line **ransom payment** to the malware creator(s) to remove the restrictions
 >>- Example : Dharma
->>![Pasted image 20231120192718.png|undefined](/img/user/Images%20All/cct-images/Pasted%20image%2020231120192718.png)
+>>![Pasted image 20231120192718.png](/img/user/Images%20All/cct-images/Pasted%20image%2020231120192718.png)
 >
 >>[!bug]+ Ransomware အမျိုးအစားများ
 >>
