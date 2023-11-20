@@ -189,16 +189,17 @@
 >> GandCrab |  
 
 
+*စာမျက်နှာ-၆၅-စာရွက်- ၇၉*
 
-
+---
 
 # Worm (4)
 >[!multi-column]
 >
 >>[!note]+ Worm ဆိုတာ
->>Malicious programs that **independently replicate**, execute, and **spread across the network connections**
->>Consume avai lable computing resources without human interaction
->>Attackers use worm **payloads to install backdoors** in infected computers
+>>- Malicious programs that **independently replicate**, execute, and **spread across the network connections**
+>>- Consume avai lable computing resources without human interaction
+>>- Attackers use worm **payloads to install backdoors** in infected computers
 >
 >>[!bug]+ Wrom အမျိုးအစားများ
 >>- Attackers use worm payloads to install backdoors on infected computers, which turns them into zombies and creates a botnet. Attackers use these botnets to initiate cyber-attacks. Some of the latest computer worms are as follows
