@@ -1,5 +1,5 @@
 ---
-{"tags":["cct"],"Date":["\"15th Wednesday, November  2023, 10:07 pm\""],"status":null,"cssclasses":null,"dg-publish":true,"permalink":"/cct-online-training/module-1/","dgPassFrontmatter":true,"noteIcon":""}
+{"tags":["cct"],"Date":["\"15th Wednesday, November  2023, 10:07 pm\""],"Auther":"y3kh","dg-publish":true,"permalink":"/cct-online-training/module-1/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
@@ -8,96 +8,104 @@
 
 
 > [!tip]+ Module Objectives
-> Understanding the Threat and Threat Sources
-> Understanding the Threat Actors/Agents
-> Understanding Various Threat Vectors
-> Overview of t he Malware and t he Common Techniques Attackers Use to Distribute Malware
-> Understanding t he Different Types of Malware
-> Understanding the Vulnerability and Examples of Network Security Vulnerabilities
-> Overview of the Common Areas of Vulnerability
-> Understanding t he Impact of Vulnerabilities
-> Understanding t he Risk of Vulnerabilities
-> Understanding t he Classification of Vulnerabilities 
+>🦾1 Understanding the Threat and Threat Sources
+>🦾2 Understanding the Threat Actors/Agents
+>🦾 3 Understanding Various Threat Vectors
+>🦾 4 Overview of the Malware and t he Common Techniques Attackers Use to Distribute Malware
+>🦾 5 Understanding the Different Types of Malware
+>🦾 6 Understanding the Vulnerability and Examples of Network Security Vulnerabilities
+>🦾 7 Overview of the Common Areas of Vulnerability
+>🦾 8 Understanding the Impact of Vulnerabilities
+>🦾 9 Understanding the Risk of Vulnerabilities
+>🦾 10 Understanding the Classification of Vulnerabilities 
 
 ### Threat Sources
 ![Threat Sources.png|undefined](/img/user/Images%20All/cct-images/Threat%20Sources.png)
 
+>[!multi-column]
+>>```ad-bug
+>>collapse: open
+>>title: Components of Malware
+>>■ Crypter: Software that protects malware from undergoing reverse engineering or analysis.  
+>>■ Downloader: A type of Trojan t hat downloads other malware from the Internet on to the PC.  
+>>■ Dropper: A type of Troj an that covertly installs other malware files on to the system.  
+>>■ Exploit: A malicious code that b reaches t he system security via software vulnerabilities to access information or install malware
+>>■ Injector: A program that injects its code in to other vulnerable running processes and changes how th ey exec ute to  
+>>hide or prevent its removal.  
+>>■ Obfuscator: It is a program that conceals the malicious code of malware via various  
+>>techniques, thus making it difficult for security mechanisms to detect or remove it.  
+>>■ Packer: A program that allows all files to bundle t ogether into a single executab le fi le via compression to bypass  
+>>security software detection.  
+>>■ Payload: A piece of software that allows control over a computer system after it has been exploited.  
+>>■ Malicious Code: A command that defines malware's basic functionalities such as stealing data and creating backdoors:  
+>>- Java Applets  
+>>- ActiveX Controls  
+>>- Browser Plug-ins  
+>>- Pushed Content	 
+>>```
+>
+>>```ad-bug
+>>collapse: open
+>>title: Types of Malware  
+>>A malware is a piece of malicious software that is designed to perform activities intended by  
+>>the attacker without user consent. It may be in the form of executable code, active content,  
+>>scripts, or other kinds of software.  
+>>Listed below are various type s of malware:  
+>>- [ ] Trojans  
+>>- [ ] Viruses  
+>>- [ ] Ransomware  
+>>- [ ] Computer Worms  
+>>- [ ] Rootkits  
+>>- [ ] PUAs or Grayware  
+>>- [ ] Spyware  
+>>- [ ] Keylogger  
+>>- [ ] Botnets  
+>>- [ ] Fileless Malware
+>>```
 
-```ad-bug
-collapse: open
-title: Components of Malware
-■ Crypter: Software that protects malware from undergoing reverse engin eer ing or analysis.  
-■ Downloader: A type of Trojan t hat downloads other malware from the Int ernet on to the PC.  
-■ Dropper: A type of Troj an that covertly installs other malware files on to the system.  
-■ Exploit: A malicious code that b reaches t he system securi ty via software vulnerabilities to access informat io n or  
-install malware
-■ Injector: A program that injects its code in to other vulnerable running processes and changes how th ey exec ute to  
-hide or prevent its removal.  
-■ Obfuscator: It is a program that conceals the malicious code of malware via various  
-techniques, thus making it difficult for security mechanisms to detect or remove it.  
-■ Packer: A program that allows all files to bundle t ogether into a single executab le fi le via compression to bypass  
-security software detection.  
-■ Payload: A piece of software that allows control over a computer system after it has been exploited.  
-■ Malicious Code: A command that defines malware's basic functionalities such as stealing data and creating backdoors:  
-o Java Applets  
-o ActiveX Controls  
-o Browser Plug-ins  
-o Pushed Content	 
-```
+---
 
-# Types of Malware
-```ad-bug
-collapse: open
-title: Types of Malware  
-A malware is a piece of malicious software that is designed to perform activities intended by  
-the attacker without user consent. It may be in the form of executable code, active content,  
-scripts, or other kinds of software.  
-Listed below are various type s of malware:  
-- [ ] Trojans  
-- [ ] Viruses  
-- [ ] Ransomware  
-- [ ] Computer Worms  
-- [ ] Rootkits  
-- [ ] PUAs or Grayware  
-- [ ] Spyware  
-- [ ] Keylogger  
-- [ ] Botnets  
-- [ ] Fileless Malware
+>[!multi-column]
+>>```ad-note
+>>title: Types of Trojans (1)
+>>collapse: open 
+>>##### Trojans are categories according to their functioning and targets  
+>>Some of the example includes:  
+>>1 Remote Access Trojans   
+>>2 Backdoor Trojans
+>>3 Botnet Trojans   
+>>4 Rootkit Trojans   
+>>5 E- Banking Trojans   
+>>6 Point-of- Sale Trojans   
+>>7 Defacement Trojans 
+>>8 Service Protocol Trojans
+>>9 Mobile Trojans  
+>>10 loT Trojans
+>>11 Security Software Disabler Trojans
+>>12 Destructive Trojans
+>>13 DDoS Attack Trojans
+>>14 Command Shell Trojans
+>>```
+>
+>>```ad-caution
+>>title: Creating a Trojan
+>>collapse: open
+>>Some additional Trojan horse construction kit s are as follows:  
+>>- [ ] DarkHorse Trojan Virus Maker  
+>>- [ ] Trojan Horse Construction Kit  
+>>- [ ] Senna Spy Trojan Generator  
+>>- [ ] Batch Trojan Generator
+>>- [ ] Umbra Loader - Botnet Trojan Maker  
+>>Exam 212-82  
+>>Module 01 Page 46 
+>>```
 
-```
-
-
-```ad-bug
-title: Types ofTrojans (1)
-collapse: open 
-#### Trojans are categories according to their functioning and targets  
-Some of the example includes:  
-1 Remote Access Trojans 8 Service Protocol Trojans  
-2 Backdoor Trojans 9 Mobile Trojans  
-3 Botnet Trojans 10 loT Trojans  
-4 Rootkit Trojans 11 Security Software Disabler Trojans  
-5 E- Banking Trojans 12 Destructive Trojans  
-6 Point-of- Sale Trojans 13 DDoS Attack Trojans  
-7 Defacement Trojans 14 Command Shell Trojans
-
-```
-စာမျက်နှာ-43-စာရွက်-58
-
-```ad-caution
-title: Creating a Trojan
-collapse: open
-Some additional Trojan horse construction kit s are as follows:  
-- [ ] DarkHorse Trojan Virus Maker  
-- [ ] Trojan Horse Construction Kit  
-- [ ] Senna Spy Trojan Generator  
-- [ ] Batch Trojan Generator  
-■ Umbra Loader - Botnet Trojan Maker  
-Exam 212-82  
-Module 01 Page 46 
-```
 ![Creating a Trojan.png|undefined](/img/user/Images%20All/cct-images/Creating%20a%20Trojan.png)
+*စာမျက်နှာ-43-စာရွက်-58*
 
-```ad-bug
+---
+
+```ad-note
 title: What is a Virus? (2)
 - [ ] Infects other programs  
 - [ ] Transforms itself  
@@ -203,17 +211,114 @@ title: Virus Maker Tools
 >>[!tip]+ Popular Rootkits
 >>- [ ] LoJax is a type of UEFI rootkit that is widely used by attackers to perform cyber-attacks. LoJax is created to inject malware into the system and is automatically executed whenever the system starts up. It exploits UEFI, which acts as an interface between the OS and the firmware. It is extremely challenging to detect LoJax as it evades traditional security controls and maintains its persistence even after OS reinstallation or hard disk replacement
 >>- [ ] Scranos is a trojanized rootkit that masquerades as cracked software or a legitimate application, such as anti-malware, a video player, or an ebook reader, to infect systems and perform data exfiltration that damages the reputation of the target and steals intellectual property. When this rootkit executed, a rootkit driver is automatically installed, which then starts installing other malicious components into the system. Apart from installing malicious components, Scranos also interacts with various websites on the behalf of the victim
->>**Module 01 Page 76**
+>>***Module 01 Page 76***
 ---
 
 # PUAs or Grayware (6)
 
 ![Pasted image 20231119044359.png|600](/img/user/Images%20All/cct-images/Pasted%20image%2020231119044359.png) ![Pasted image 20231119044420.png|600](/img/user/Images%20All/cct-images/Pasted%20image%2020231119044420.png)
 
+
 ---
 # Spyware(7)
 
-![Pasted image 20231119044750.png|650](/img/user/Images%20All/cct-images/Pasted%20image%2020231119044750.png) ![Pasted image 20231119044820.png|650](/img/user/Images%20All/cct-images/Pasted%20image%2020231119044820.png)
+![Pasted image 20231119044750.png|500](/img/user/Images%20All/cct-images/Pasted%20image%2020231119044750.png) ![Pasted image 20231119044820.png|500](/img/user/Images%20All/cct-images/Pasted%20image%2020231119044820.png)
+
+```ad-hint
+title: Spyware Tools
+collapse: open
+- Spytech SpyAgent
+Source: https:// www.spytech-web.com
+- Power Spy
+Source: https://ematrixsoft.com
+
+```
+***စာမျက်နှာ 01 Page 86***
+
+---
+# Key logger(8)
+> [!multi-column]
+> 
+>>```ad-abstract
+>>title: Key Logger 
+>>collapse: open
+>>- Keystroke loggers are programs or hardware devices that **monitor each keystroke** as the user types on a keyboard, logs onto a file, or transmits them to a remote location
+>>- It allows the attacker to **gather confidential information** about t he victim such as email ID, passwords, banking details, chat room activity, IRC, and instant messages
+>>```
+>
+>>```ad-bug
+>>title: Tools
+>>- Spyrix Keylogger Free 
+Source: https:// www.spyrix.com
+>>**Keyloggers for Windows**
+>>- [ ] Spyrix Keylogger Free is used for **remote monitoring** on your PC that includes recording of keystrokes
+>>**Keyloggers for Mac**
+>>- [ ] Refog Mac Keylogger provides undetected surveillance and **records all the keystrokes** on t he computer
+>>***Some of the keyloggers for Windows are listed as follows***: 
+>>- REFOG Personal Monitor (https://www.refog.com) 
+>>- All In One Keylogger (https://www.relytec.com) 
+>>- Elite Keylogger (https://www.elitekeyloggers.com) 
+>>- StaffCop Standard (https://www.staffcop.com) 
+>>- Spytector (https://www.spytector.com)
+>>```
+
+***စာမျက်နှာ- 01 Page 90***
+
+---
+# Botnets (9)
+> [!multi-column]
+>>```ad-summary
+>>title: Botnets
+>>- A Botnet is a collection of **compromised computers** connected to the Internet to perform a distributed task 
+>>- Attackers distribute malicious software that turns a user's computer into a bot 
+>>- Bot refers to a program or an infected system that performs repetitive work or acts as an agent or as a user interface to control other programs
+>
+>>```ad-error
+>>title: Why Attackers use Botnets?
+>>- Perform **DDoS attacks**, which consume the bandwidth of the victim's computers
+>>- Use **sniffer** to steal information from one botnet and use it against another botnet 
+>>-  Perform **keylogging** to harvest account login information for services
+>>- Use to **spread new bots**
+>>- Perpetrate a "**click fraud**" by automating clicks
+>>- Perform mass **identity theft**
+>>- **Installing advertisement add-ons**
+>>- **Mass identity theft**
+>>- **Attacks on IRC chat networks**
+>>- **Manipulating online polls and games**
+>>- **Mass identity theft**
+>>```
+
+
+
+---
+# Fileless Malware (10)
+
+> [!multi-column]
+>
+>> [!note]+ အချက်အလက်
+>>- Fileless malware, also known as non-malware, **infects legitimate software, applications**, and other protocols existing in the system to perform various malicious activities
+>>- Leverages any existing vulnerabilities to infect the system
+>>-  Resides in the system's RAM
+>>-  **Injects malicious code** into the running processes such as Microsoft Word, Flash, Adobe PDF Reader, Javascript, and PowerShell
+>
+>> [!warning]+ ဘာကြောင့်သုံးရတာလဲ?
+>> - **Stealth**: Fileless malware exploits legitimate system tools; hence, it is extremely difficult to detect, block, or prevent fileless attacks
+>> - **LOL** "Living-off-the-land": System tools exploited by fileless malware are already installed in the system by default. An attacker does not need to create and install custom tools on the target system
+>> - **Trustworthy**: The system tools used by fileless malware are the most frequently used and trusted tools; hence, security tools incorrectly assume that such tools are running for a legitimate purpose>
+>
+>> [!todo]+ ပြန့်ပွါးစေဖို့နည်းလမ်းအချို့
+>> - [ ]  Phishing emails
+>> - [ ] Legitimate applications
+>> - [ ] Native applications
+>> - [ ] Infection through lateral movement
+>> - [ ] Malicious websites
+>> - [ ] Registry manipulation:
+>> - [ ] Memory code injection
+>> - [ ] Script-based injection
+
+---
+
+
 
 
 
