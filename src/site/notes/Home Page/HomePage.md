@@ -12,7 +12,7 @@ collapse: open
 > [!danger]- 🔖🎓 CCT Online Training
 >  | File                                                                                                        | Auther | tags                                     |
 > | ----------------------------------------------------------------------------------------------------------- | ------ | ---------------------------------------- |
-> | [[CCT Online Training/Module 1.md\|Module 1]]                                                               | \-     | <ul><li>cct</li></ul>                    |
+> | [[CCT Online Training/Module 1.md\|Module 1]]                                                               | y3kh   | <ul><li>cct</li></ul>                    |
 > | [[CCT Online Training/SolarWinds Supply-Chain Attack အကြောင်း.md\|SolarWinds Supply-Chain Attack အကြောင်း]] | \-     | <ul><li>malware</li><li>cctlab</li></ul> |
 > 
 { .block-language-dataview}
