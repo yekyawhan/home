@@ -108,9 +108,10 @@
 >>- [ ] Umbra Loader - Botnet Trojan Maker  
 >>Exam 212-82 
 >>```
+>>*စာမျက်နှာ-43-စာရွက်-58*
+>>![Creating a Trojan.png|undefined](/img/user/Images%20All/cct-images/Creating%20a%20Trojan.png)
 
-![Creating a Trojan.png|undefined](/img/user/Images%20All/cct-images/Creating%20a%20Trojan.png)
-*စာမျက်နှာ-43-စာရွက်-58*
+*Trojan port များအား စာမှက်နှာ ၃၇-၅၂ တွင်ကြည့်နိုင်သည်*
 
 ---
 # Virus? (2)
@@ -169,7 +170,7 @@ title: Virus Maker Tools
 ![Pasted image 20231119035830.png|undefined](/img/user/Images%20All/cct-images/Pasted%20image%2020231119035830.png)
 
 
-## Different Between Worm & Virus
+## Worm & Virus နှိုင်းယှဉ်ချက်
 >[!multi-column]
 >>[!todo]+ Virus
 >>- A virus infects a system by inserting it self into a file or executable program
@@ -198,11 +199,11 @@ title: Virus Maker Tools
 >>- [ ] Batch Worm Generator
 >>- [ ] C++ Worm Generator
 ---
-
+# Rootkits (5)
 
 > [!multi-column]
 >
->> [!note]+ ## Rootkits (5)
+>> [!note]+ အ 
 >>- Rootkits are programs that **hide their presence** as well as attacker's malicious activities, granting them full access to the server or host at that time, and in the future 
 >>- Rootkits replace certain operating system calls and utilities with their ow n **modified versions** of those routines that, in turn, undermine the security of the target system causing malicious functions to be executed 
 >>- A typical rootkit comprises of backdoor programs, DDoS programs, packet sniffers, log-wiping utilities, I RC bots, etc.
