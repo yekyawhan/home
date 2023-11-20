@@ -9,7 +9,7 @@ https://github.com/thomasmauerer/hassio-addons
 
 create user and folder  on sysnology share it
 
-![Samba Backup setting.png|undefined](/img/user/Images%20All/Samba%20Backup%20setting.png)
+![Samba Backup setting.png](/img/user/Images%20All/Samba%20Backup%20setting.png)
 ## Configuration Options
 
 ### Option: `host`
