@@ -91,8 +91,8 @@ if goverment
 supply cahin attack
 # Types of Malware
 - [x] Trojans  
-- [x] Viruses  
-- [x] Ransomware  
+- [ ] Viruses  
+- [ ] Ransomware  
 - [ ] Computer Worms  
 - [ ] Rootkits  
 - [ ] PUAs or Grayware  
@@ -102,13 +102,4 @@ supply cahin attack
 - [ ] Fileless Malware
 
 
-## to ask 
-
-threat group by FireEye
-when where စတင်ခဲ့တာလဲ သတ်မှတ်ချိန်
-
-trojans 
-spyware
-	
-ခေါင်းစဉ်တခုအောက်မှာရှိတာလား
 
