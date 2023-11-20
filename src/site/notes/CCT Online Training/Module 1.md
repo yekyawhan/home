@@ -171,8 +171,28 @@
 ---
 # Ransom ware (3)
 >[!multi-column]
->>![Pasted image 20231119034722.png|undefined](/img/user/Images%20All/cct-images/Pasted%20image%2020231119034722.png)
-# worm (4)
+>>[!note]+ Ransom ဆိုတာ
+>>- A type of malware that restricts access to the computer system's **files and folders**
+>>- Demands an on line **ransom payment** to the malware creator(s) to remove the restrictions
+>>- Example : Dharma
+>>![Pasted image 20231120192718.png|undefined](/img/user/Images%20All/cct-images/Pasted%20image%2020231120192718.png)
+>
+>>[!bug]+ Ransomware အမျိုးအစားများ
+>>
+>> Cerber   |  CryptorBit | CTB-Locker
+>>---|---|---
+>> Crypto Locker | Sodinokibi | Crypto Defense
+>> BitPaymer | CryptoWall | eChOraix
+>> CryptXXX | Police-themed Ransomware | CryptghOst 
+>> Mega Cortex |  SamSam |  LockerGoga
+>> WannaCry |  NamPoHyu |  Petya - NotPetya
+>> GandCrab |  
+
+
+
+
+
+# Worm (4)
 ![Pasted image 20231119035830.png|undefined](/img/user/Images%20All/cct-images/Pasted%20image%2020231119035830.png)
 
 
