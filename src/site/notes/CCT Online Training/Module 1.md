@@ -1,5 +1,5 @@
 ---
-{"tags":["cct"],"Date":["\"15th Wednesday, November  2023, 10:07 pm\""],"Auther":"y3kh","dg-publish":true,"permalink":"/cct-online-training/module-1/","dgPassFrontmatter":true,"noteIcon":""}
+{"tags":["cct","module1"],"Date":["\"15th Wednesday, November  2023, 10:07 pm\""],"Auther":"y3kh","dg-publish":true,"permalink":"/cct-online-training/module-1/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
