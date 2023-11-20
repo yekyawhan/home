@@ -1,5 +1,5 @@
 ---
-{"tags":["malware"],"dg-publish":true,"permalink":"/cct-online-training/solar-winds-supply-chain-attack/","dgPassFrontmatter":true,"noteIcon":""}
+{"tags":["malware"],"dg-publish":true,"Auther":"y3kh","permalink":"/cct-online-training/solar-winds-supply-chain-attack/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
