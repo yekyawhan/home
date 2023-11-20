@@ -86,7 +86,7 @@ _စာမျက်နှာ 144 Page 130_
 >>- These vulnerabilities are **exploited by the attackers** before being acknowledged and patched by the software developers or **security analysts**
 >
 >>[!todo]+ Legacy Platform Vulnerabilities(9)
->> - [ ]  Legacy platform vulnerabi lities are caused by **obsolete** or familiar codes
+>> - [ ] Legacy platform vulnerabi lities are caused by **obsolete** or familiar codes
 >> - [ ] Legacy platforms are usually **not supported** when patching technical assets such as smartphones, computers, loT devices, OSes, applications, databases, firewalls, IDSes, or other network components
 >> - [ ] This type of vulnerabilities can cause **costly data breaches** for organizations
 
