@@ -19,5 +19,5 @@
 
 
 ***After***
-
+![Pasted image 20231104200427.png|undefined](/img/user/Images%20All/Pasted%20image%2020231104200427.png)
 *ခုပုံက predefine လုပ်ပြီး နက်ဝေါ့ရနေပုံ ပါ*
