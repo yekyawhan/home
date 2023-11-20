@@ -193,6 +193,22 @@
 
 
 # Worm (4)
+>[!multi-column]
+>
+>>[!note]+ Worm ဆိုတာ
+>>Malicious programs that **independently replicate**, execute, and **spread across the network connections**
+>>Consume avai lable computing resources without human interaction
+>>Attackers use worm **payloads to install backdoors** in infected computers
+>
+>>[!bug]+ Wrom အမျိုးအစားများ
+>>- Attackers use worm payloads to install backdoors on infected computers, which turns them into zombies and creates a botnet. Attackers use these botnets to initiate cyber-attacks. Some of the latest computer worms are as follows
+>>🐛 Manero
+>>🐛 Bondat 
+>>🐛 Beapy
+
+
+
+
 ![Pasted image 20231119035830.png|undefined](/img/user/Images%20All/cct-images/Pasted%20image%2020231119035830.png)
 
 
