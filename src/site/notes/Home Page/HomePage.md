@@ -24,8 +24,8 @@ collapse: open
 >  | File                                                                 | Auther | tags                       |
 > | -------------------------------------------------------------------- | ------ | -------------------------- |
 > | [[Docker/Adguard on docker.md\|Adguard on docker]]                   | y3kh   | <ul><li>dockerio</li></ul> |
-> | [[Docker/alpine setup indocker.md\|alpine setup indocker]]           | \-     | dockerio                   |
 > | [[Docker/Calibre Web For Ebook Read.md\|Calibre Web For Ebook Read]] | \-     | <ul><li>dockerio</li></ul> |
+> | [[Docker/alpine setup indocker.md\|alpine setup indocker]]           | \-     | dockerio                   |
 > | [[Docker/go2rtc.md\|go2rtc]]                                         | \-     | \-                         |
 > | [[Docker/Prowlarr  install docker.md\|Prowlarr  install docker]]     | \-     | <ul><li>dockerio</li></ul> |
 > 
@@ -108,6 +108,6 @@ Hope you enjoy!
 <a href='https://www.buymeacoffee.com/y3kh/'><img src='https://img.shields.io/badge/☕-Buy me a coffee-red' /></a>
 ```
 
-![skeleton-waiting.gif|undefined](/img/user/Wallpaper/icon/skeleton%20gif%20pack-emojigg-pack/skeleton-waiting.gif)	![skeleton-chairspin.gif|undefined](/img/user/Wallpaper/icon/skeleton%20gif%20pack-emojigg-pack/skeleton-chairspin.gif) ![skeleton-computer.gif|undefined](/img/user/Wallpaper/icon/skeleton%20gif%20pack-emojigg-pack/skeleton-computer.gif)
+![skeleton-waiting.gif](/img/user/Wallpaper/icon/skeleton%20gif%20pack-emojigg-pack/skeleton-waiting.gif)	![skeleton-chairspin.gif](/img/user/Wallpaper/icon/skeleton%20gif%20pack-emojigg-pack/skeleton-chairspin.gif) ![skeleton-computer.gif](/img/user/Wallpaper/icon/skeleton%20gif%20pack-emojigg-pack/skeleton-computer.gif)
 
 >###### "လက်ညစ်ပတ်လျှင် ဆေးလို့ပြောင်တယ်... စိတ်ညစ်ပတ်လျှင်ဆေးလို့မပြောင်"
