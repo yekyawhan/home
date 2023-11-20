@@ -115,57 +115,63 @@
 
 ---
 # Virus? (2)
-```ad-note
-collapse: open
-title: ဗိုင်းရပ်ဆိုတာ 
-- [ ] Infects other programs  
-- [ ] Transforms itself  
-- [ ] Encrypts it self  
-- [ ] Alters data  
-- [ ] Corrupts files and programs  
-- [ ] Replicates itself
-```
 
-```
-Purpose of Creating Viruses
- Inflict damage on competitors  
- Realize financial benefits  
- Vandalize intellectual property  
- Play pranks  
- Conduct research  
- Engage in cyber-terrorism  
- Distribute polit ical messages  
- Damage network s or computers  
- Gain remote access to a victim's computer 
- Module 01 Page 51
-```
+>[!multi-column]
+>>```ad-note
+>>collapse: open
+>>title: ဗိုင်းရပ်ဆိုတာ 
+>>- [ ] Infects other programs  
+>>- [ ] Transforms itself  
+>>- [ ] Encrypts it self  
+>>- [ ] Alters data  
+>>- [ ] Corrupts files and programs  
+>>- [ ] Replicates itself
+>>```
+>
+>>[!todo]+ Viruses ဖန်တီးရခြင်းဧ။်ရည်ရွယ်ချက်
+>>- Inflict damage on competitors  
+>>- Realize financial benefits  
+>>- Vandalize intellectual property  
+>>- Play pranks  
+>>- Conduct research  
+>>- Engage in cyber-terrorism  
+>>- Distribute polit ical messages  
+>>- Damage network s or computers  
+>>- Gain remote access to a victim's computer 
+>
+>>```ad-error
+>>collapse: open
+>>title: Virus Maker Tools
+>>- [ ] DELmE's Batch Virus Maker
+>>- [ ] JPS Virus Maker
+>>- [ ] Bhavesh Virus Maker SlW  
+>>- [ ] Deadly Virus Maker  
+>>- [ ] SonicBat Batch Virus Maker  
+>>- [ ] Tera BIT Virus Maker  
+>>- [ ] AndreinickOS's Batch Virus Maker
+>>```
+>>#Virusmaker
 
-![Purpose of Creating Viruses.png|undefined](/img/user/Images%20All/cct-images/Purpose%20of%20Creating%20Viruses.png)
 
-![Indicaations of virus attack.png|undefined](/img/user/Images%20All/cct-images/Indicaations%20of%20virus%20attack.png)
-
-![stages of virus lifecycle.png|undefined](/img/user/Images%20All/cct-images/stages%20of%20virus%20lifecycle.png)
-![Computer Get Infected by Viruses.png|undefined](/img/user/Images%20All/cct-images/Computer%20Get%20Infected%20by%20Viruses.png)
-![Types of viruses.png|undefined](/img/user/Images%20All/cct-images/Types%20of%20viruses.png) 
+*စာမျက်နှာ 01 Page 51*
 
 
-#virusmakertools
-```ad-error
-collapse: open
-title: Virus Maker Tools
-- [ ] DELmE's Batch Virus Maker
-- [ ] JPS Virus Maker
-- [ ] Bhavesh Virus Maker SlW  
-- [ ] Deadly Virus Maker  
-- [ ] SonicBat Batch Virus Maker  
-- [ ] Tera BIT Virus Maker  
-- [ ] AndreinickOS's Batch Virus Maker
-```
+>[!multi-column]
+>>![Purpose of Creating Viruses.png|undefined](/img/user/Images%20All/cct-images/Purpose%20of%20Creating%20Viruses.png)
+>
+>>![Indicaations of virus attack.png|undefined](/img/user/Images%20All/cct-images/Indicaations%20of%20virus%20attack.png)
 
+>[!multi-column]
+>>![stages of virus lifecycle.png|undefined](/img/user/Images%20All/cct-images/stages%20of%20virus%20lifecycle.png)
+>
+>>![Computer Get Infected by Viruses.png|undefined](/img/user/Images%20All/cct-images/Computer%20Get%20Infected%20by%20Viruses.png)
+>
+>>![Types of viruses.png|undefined](/img/user/Images%20All/cct-images/Types%20of%20viruses.png) 
+
+---
 # Ransom ware (3)
-
-![Pasted image 20231119034722.png|undefined](/img/user/Images%20All/cct-images/Pasted%20image%2020231119034722.png) 
-
+>[!multi-column]
+>>![Pasted image 20231119034722.png|undefined](/img/user/Images%20All/cct-images/Pasted%20image%2020231119034722.png)
 # worm (4)
 ![Pasted image 20231119035830.png|undefined](/img/user/Images%20All/cct-images/Pasted%20image%2020231119035830.png)
 
