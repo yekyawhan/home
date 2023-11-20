@@ -26,7 +26,7 @@ node တွေကို ၁၀၀ ကနေ ၁၀၀၀ ထိကို handle 
 ```
 solar wind ရဲ့ case နောက်ကွယ် က rusia  ပူတင်က လုပ်တာလို့လည်းထင်ကြတယ် ဒါကို ပူတင်တို့ဘက်က ညင်းထားတယ်
 
-![Orion Platform.png|undefined](/img/user/Images%20All/cct-images/Orion%20Platform.png)
+![Orion Platform.png](/img/user/Images%20All/cct-images/Orion%20Platform.png)
 
 
 ```ad-abstract
@@ -75,10 +75,10 @@ FireEye သည် နိုင်ငံတစ်နိုင်ငံမှ ဟ
 
 ![Pasted image 20231119004622.png|300](/img/user/Images%20All/cct-images/Pasted%20image%2020231119004622.png)
 Fire Eye CEO Mandiant, Kevin Mandia
-![Pasted image 20231119145712.png|undefined](/img/user/Images%20All/cct-images/Pasted%20image%2020231119145712.png)
-![Pasted image 20231119143502.png|undefined](/img/user/Images%20All/cct-images/Pasted%20image%2020231119143502.png)
+![Pasted image 20231119145712.png](/img/user/Images%20All/cct-images/Pasted%20image%2020231119145712.png)
+![Pasted image 20231119143502.png](/img/user/Images%20All/cct-images/Pasted%20image%2020231119143502.png)
 	indicator of compromise (ioc)
-![Pasted image 20231119144442.png|undefined](/img/user/Images%20All/cct-images/Pasted%20image%2020231119144442.png)
+![Pasted image 20231119144442.png](/img/user/Images%20All/cct-images/Pasted%20image%2020231119144442.png)
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Kf7Motm36Go?si=IJCJ3Wb2TVsFRMG1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -87,9 +87,9 @@ Fire Eye CEO Mandiant, Kevin Mandia
 
 
 အနှစ်ချုုပ် conclusion
-if goverment 
-supply cahin attack
-# Types of Malware
+if goverment ပါလာမယ်ဆိုရင်
+supply cahin attack က
+### Types of Malware ရွေးရန်
 - [ ] Trojans  
 - [ ] Viruses  
 - [ ] Ransomware  
