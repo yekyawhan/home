@@ -9,13 +9,22 @@
 title: # မာတိကာ
 collapse: open
 
+> [!danger]- 🔖🎓 CCT Online Training
+>  | File                                                                                                        | Auther | tags                                     |
+> | ----------------------------------------------------------------------------------------------------------- | ------ | ---------------------------------------- |
+> | [[CCT Online Training/Module 1.md\|Module 1]]                                                               | \-     | <ul><li>cct</li></ul>                    |
+> | [[CCT Online Training/SolarWinds Supply-Chain Attack အကြောင်း.md\|SolarWinds Supply-Chain Attack အကြောင်း]] | \-     | <ul><li>malware</li><li>cctlab</li></ul> |
+> 
+{ .block-language-dataview}
+
+
 > [!danger]- 🔖 Docker
 >  | File                                                                 | Auther | tags                       |
 > | -------------------------------------------------------------------- | ------ | -------------------------- |
 > | [[Docker/Adguard on docker.md\|Adguard on docker]]                   | y3kh   | <ul><li>dockerio</li></ul> |
 > | [[Docker/alpine setup indocker.md\|alpine setup indocker]]           | \-     | dockerio                   |
-> | [[Docker/go2rtc.md\|go2rtc]]                                         | \-     | \-                         |
 > | [[Docker/Calibre Web For Ebook Read.md\|Calibre Web For Ebook Read]] | \-     | <ul><li>dockerio</li></ul> |
+> | [[Docker/go2rtc.md\|go2rtc]]                                         | \-     | \-                         |
 > | [[Docker/Prowlarr  install docker.md\|Prowlarr  install docker]]     | \-     | <ul><li>dockerio</li></ul> |
 > 
 { .block-language-dataview}
@@ -78,17 +87,12 @@ collapse: open
 > 
 { .block-language-dataview}
 ```
-
-
-![skeleton-waiting.gif|undefined](/img/user/Wallpaper/icon/skeleton%20gif%20pack-emojigg-pack/skeleton-waiting.gif)	![skeleton-chairspin.gif|undefined](/img/user/Wallpaper/icon/skeleton%20gif%20pack-emojigg-pack/skeleton-chairspin.gif) ![skeleton-computer.gif|undefined](/img/user/Wallpaper/icon/skeleton%20gif%20pack-emojigg-pack/skeleton-computer.gif)
-
-
-
+---
 ### Check Out Build DIY Server
 <iframe width="640" height="480" src="https://www.youtube.com/embed/jOEV8WkmM8w?si=brCtdvVZmsLK1T_T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
 </iframe>
 
-
+---
 ```ad-info
 collapse: open
 ### About
@@ -103,6 +107,6 @@ Hope you enjoy!
 <a href='https://www.buymeacoffee.com/y3kh/'><img src='https://img.shields.io/badge/☕-Buy me a coffee-red' /></a>
 ```
 
-
+![skeleton-waiting.gif|undefined](/img/user/Wallpaper/icon/skeleton%20gif%20pack-emojigg-pack/skeleton-waiting.gif)	![skeleton-chairspin.gif|undefined](/img/user/Wallpaper/icon/skeleton%20gif%20pack-emojigg-pack/skeleton-chairspin.gif) ![skeleton-computer.gif|undefined](/img/user/Wallpaper/icon/skeleton%20gif%20pack-emojigg-pack/skeleton-computer.gif)
 
 >###### "လက်ညစ်ပတ်လျှင် ဆေးလို့ပြောင်တယ်... စိတ်ညစ်ပတ်လျှင်ဆေးလို့မပြောင်"
