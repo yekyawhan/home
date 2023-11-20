@@ -12,7 +12,6 @@ collapse: open
 > [!danger]- 🔖🎓 CCT Online Training
 >  | File                                                                                                        | Auther | tags                                  |
 > | ----------------------------------------------------------------------------------------------------------- | ------ | ------------------------------------- |
-> | [[CCT Online Training/Module 1.md\|Module 1]]                                                               | y3kh   | <ul><li>cct</li><li>module1</li></ul> |
 > | [[CCT Online Training/SolarWinds Supply-Chain Attack အကြောင်း.md\|SolarWinds Supply-Chain Attack အကြောင်း]] | y3kh   | <ul><li>malware</li></ul>             |
 > | [[CCT Online Training/Vulnerabilities ခွဲခြမ်းစိတ်ဖြာခြင်း.md\|Vulnerabilities ခွဲခြမ်းစိတ်ဖြာခြင်း]]       | y3kh   | <ul><li>cct</li><li>module1</li></ul> |
 > 
