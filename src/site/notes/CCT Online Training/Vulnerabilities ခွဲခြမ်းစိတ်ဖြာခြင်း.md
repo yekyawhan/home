@@ -1,5 +1,5 @@
 ---
-{"tags":["cct","module1"],"Auther":"y3kh","Date":["\"20th Monday, November  2023, 6:25 pm\""],"dg-publish":true,"permalink":"/cct-online-training/vulnerabilities/","dgPassFrontmatter":true,"noteIcon":""}
+{"tags":["cct","module1"],"Auther":"y3kh","Date":["\"20th Monday, November  2023, 6:25 pm\""],"dg-publish":true,"due":"2023-10-04","permalink":"/cct-online-training/vulnerabilities/","dgPassFrontmatter":true,"noteIcon":""}
 ---
 
 
@@ -81,5 +81,7 @@
 >>- Legal liability (ဥပဒေအရ-တာဝန်ယူတာဝန်ခံမှူ့)
 >>- Damage to reputation and consumer confidence(ဂုဏ်သိက္ခာနှင့် သုံးစွဲသူများ၏ ယုံကြည်မှုကို ထိခိုက်စေခြင်း)
 
+*စာမျက်နှာ 131 page 116 *  
 
-*စာမျက်နှာ 131 page 116 *
+---
+အနောက်စာမျက်နှာသို့
