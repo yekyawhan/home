@@ -7,21 +7,21 @@
 
 > [!multi-column]
 >> [!check]+ Vulnerability Classification
->>- 1 Misconfigurations/weak configurations
->>- 2 Default installations/default configurations
->>- 3 Application flaws
->>- 4 Poor patch management
->>- 5 Design flaws
->>- 6 Operating system flaws
->>- 7 Default passwords
->>- 8 Zero-day vulnerabilities
->>- 9 Legacy platform vulnerabilities
->>- 10 System sprawl/undocumented assets
->>- 11 Improper certificate and key management
->>- 12 Third-party risks
+>>- [>] Misconfigurations/weak configurations
+>>- [>] Default installations/default configurations
+>>- [>] Application flaws
+>>- [>] Poor patch management
+>>- [>] Design flaws
+>>- [>] Operating system flaws
+>>- [>] Default passwords
+>>- [>] Zero-day vulnerabilities
+>>- [>] Legacy platform vulnerabilities
+>>- [>] System sprawl/undocumented assets
+>>- [>] Improper certificate and key management
+>>- [>] Third-party risks
 >
 >> [!warning]+ Misconfigurations(1)
->> - [ ] Misconfiguration is the most common vulnerability and is mainly caused by human error. It allows attackers to **break into a network** and gain unauthorized access to systems
+>> - [!] Misconfiguration is the most common vulnerability and is mainly caused by human error. It allows attackers to **break into a network** and gain unauthorized access to systems
 >> #### Network Misconfigurations
 >> - Insecure Protocols
 >> - Open Ports and Services
@@ -32,24 +32,24 @@
 >> - Unsecured Root Accounts
 >
 >> [!todo]+ Application Flaws(3)
->>- Application flaws are **vulnerabilities** in appl ications t hat are exploited by the attackers
->>- Flawed applications pose security threats such as **data tampering** and **unauthorized access** to configuration stores
->> - [ ]  Buffer Overflows
->> - [ ] Memory Leaks
->> - [ ] Resource Exhaustion
->> - [ ] Integer Overflows
->> - [ ] Null Pointer /Object Dereference
->> - [ ] DLL Injection
->> - [ ] Race Conditions
->> - [ ] Time of Check/Time of Use
->> - [ ] Improper Input Handling
->> - [ ] Improper Error Handling
+>>- [<] Application flaws are **vulnerabilities** in appl ications t hat are exploited by the attackers
+>>- [<] Flawed applications pose security threats such as **data tampering** and **unauthorized access** to configuration stores
+>> - [?]  Buffer Overflows
+>> - [?] Memory Leaks
+>> - [?] Resource Exhaustion
+>> - [?] Integer Overflows
+>> - [?] Null Pointer /Object Dereference
+>> - [?] DLL Injection
+>> - [?] Race Conditions
+>> - [?] Time of Check/Time of Use
+>> - [?] Improper Input Handling
+>> - [?] Improper Error Handling
 
 
 >[!hint]+ Default Installations/Default Configurations (2)
->- Default installations are usually **user-friendly** - especially when the device is being used for the first time when the primary concern is the **usability of the device** rather than the device's security
->- Failing to change the default settings while deploying the software or hardware  allows the attacker to **guess the settings** to break into the system
->- When connecting a system or device to a network, it is important to **disable unnecessary components** and services associated wit h the default configuration
+>- [1] Default installations are usually **user-friendly** - especially when the device is being used for the first time when the primary concern is the **usability of the device** rather than the device's security
+>- [2] Failing to change the default settings while deploying the software or hardware  allows the attacker to **guess the settings** to break into the system
+>- [3] When connecting a system or device to a network, it is important to **disable unnecessary components** and services associated wit h the default configuration
 
 _စာမျက်နှာ 137 Page 123_
 
@@ -57,21 +57,21 @@ _စာမျက်နှာ 137 Page 123_
 > [!multi-column]
 >
 >> [!note]+ Poor Patch Management(4)
->>- A patch is a **small piece of software** designed to fix problems, security vulnerabilities, and bugs as well as improve the usability or performance of a computer program or its supporting data 
->>- Software vendors provide patches that **prevent exploitations** and reduce the probability of threats exploiting a specific vulnerability 
->>- Unpatched software can make an application, server, or device vulnerable to various attacks
+>>- [<] A patch is a **small piece of software** designed to fix problems, security vulnerabilities, and bugs as well as improve the usability or performance of a computer program or its supporting data 
+>>- [<] Software vendors provide patches that **prevent exploitations** and reduce the probability of threats exploiting a specific vulnerability 
+>>- [<] Unpatched software can make an application, server, or device vulnerable to various attacks
 >>##### ဥပမာ
->>- Unpatched Servers
->>- Unpatched Firmware
->>- Un patched OS
->>- Unpatched Applications
+>>- [>] Unpatched Servers
+>>- [>] Unpatched Firmware
+>>- [>] Un patched OS
+>>- [>] Unpatched Applications
 >
 >> [!warning]+ Design Flaws(5)
->>- Design vulnerabilities such as **incorrect encryption** or the poor validation of data refer to logical flaws in the functionality of the system that attackers exploit to bypass the **detection mechanism** and acquire access to a secure system 
+>>- [>] Design vulnerabilities such as **incorrect encryption** or the poor validation of data refer to logical flaws in the functionality of the system that attackers exploit to bypass the **detection mechanism** and acquire access to a secure system 
 >
 >> [!todo]+ Operating System. Flaws(6)
->> - [ ]  Due to vulnerabilities in the operating systems, applications such as **Trojans, worms**, and viruses pose threats
->> - [ ] These attacks use malicious code, script, or unwanted software, which results in the **loss of sensitive information** and control of computer operations
+>> - [?]  Due to vulnerabilities in the operating systems, applications such as **Trojans, worms**, and viruses pose threats
+>> - [?] These attacks use malicious code, script, or unwanted software, which results in the **loss of sensitive information** and control of computer operations
 
 _စာမျက်နှာ 144 Page 130_
 
@@ -96,22 +96,22 @@ _စာမျက်နှာ 148 Page 134_
 >[!multi-column]
 >
 >>[!note]+ System Sprawl/Undocumented Assets(10)
->>- The system sprawl vulnerability arises within an organizational network because of an increased number of **system or server connections** without proper documentation or an understanding of their maintenance
->>- These assets are often neglected over t ime, making t hem **susceptible to attacks**
+>>- [1] The system sprawl vulnerability arises within an organizational network because of an increased number of **system or server connections** without proper documentation or an understanding of their maintenance
+>>- [2] These assets are often neglected over t ime, making t hem **susceptible to attacks**
 >
 >>[!warning]+ Improper Certificate and key Management (11)
->>- Improper certificate and key management may lead to many vulnerabilities that allow attackers to perform **password cracking** and **data exfiltration** attacks
->>- Storing or retaining legacy or **outdated keys** also poses major threats to organizations
->>- Private keys used with certificates must be stored in a **highly secured environment**; otherwise, an unauthorized individual can intercept the keys and gain access to confidential data or critical systems
+>>- [3] Improper certificate and key management may lead to many vulnerabilities that allow attackers to perform **password cracking** and **data exfiltration** attacks
+>>- [4] Storing or retaining legacy or **outdated keys** also poses major threats to organizations
+>>- [5] Private keys used with certificates must be stored in a **highly secured environment**; otherwise, an unauthorized individual can intercept the keys and gain access to confidential data or critical systems
 >
 >>[!todo]+ Third-party Risks (12)
->> - [ ] Third-party services or products can have **access to privileged systems** and **applications**, through which financial information, customer and employee data, and processes in the enterprise's supply chain can be compromised
+>> - [6] Third-party services or products can have **access to privileged systems** and **applications**, through which financial information, customer and employee data, and processes in the enterprise's supply chain can be compromised
 >> ##### Examples of Third-party Rislts
->> - Vendor Management
->> - Supply-chain Risks
->> - Outsourced Code Development
->> - Data Storage
->> - Cloud-based vs On-premises Risks
+>>- [>] Vendor Management
+>>- [>] Supply-chain Risks
+>>- [>] Outsourced Code Development
+>>- [>] Data Storage
+>>- [>] Cloud-based vs On-premises Risks
 
 *စာမျက်နှာ 154 Page 140*
 
