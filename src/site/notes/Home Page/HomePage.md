@@ -12,10 +12,10 @@ collapse: open
 > [!danger]- 🔖🎓 CCT Online Training
 >  | File                                                                                                        | Auther | tags                                  |
 > | ----------------------------------------------------------------------------------------------------------- | ------ | ------------------------------------- |
-> | [[CCT Online Training/SolarWinds Supply-Chain Attack အကြောင်း.md\|SolarWinds Supply-Chain Attack အကြောင်း]] | y3kh   | <ul><li>malware</li></ul>             |
 > | [[CCT Online Training/Module 1 part-1.md\|Module 1 part-1]]                                                 | y3kh   | <ul><li>cct</li><li>module1</li></ul> |
-> | [[CCT Online Training/Module 1 part-3.md\|Module 1 part-3]]                                                 | y3kh   | <ul><li>cct</li><li>module1</li></ul> |
 > | [[CCT Online Training/Module 1 part-2.md\|Module 1 part-2]]                                                 | y3kh   | <ul><li>cct</li><li>module1</li></ul> |
+> | [[CCT Online Training/Module 1 part-3.md\|Module 1 part-3]]                                                 | y3kh   | <ul><li>cct</li><li>module1</li></ul> |
+> | [[CCT Online Training/SolarWinds Supply-Chain Attack အကြောင်း.md\|SolarWinds Supply-Chain Attack အကြောင်း]] | y3kh   | <ul><li>malware</li></ul>             |
 > 
 { .block-language-dataview}
 
@@ -24,8 +24,8 @@ collapse: open
 >  | File                                                                 | Auther | tags                       |
 > | -------------------------------------------------------------------- | ------ | -------------------------- |
 > | [[Docker/Adguard on docker.md\|Adguard on docker]]                   | y3kh   | <ul><li>dockerio</li></ul> |
-> | [[Docker/alpine setup indocker.md\|alpine setup indocker]]           | \-     | dockerio                   |
 > | [[Docker/Calibre Web For Ebook Read.md\|Calibre Web For Ebook Read]] | \-     | <ul><li>dockerio</li></ul> |
+> | [[Docker/alpine setup indocker.md\|alpine setup indocker]]           | \-     | dockerio                   |
 > | [[Docker/go2rtc.md\|go2rtc]]                                         | \-     | \-                         |
 > | [[Docker/Prowlarr  install docker.md\|Prowlarr  install docker]]     | \-     | <ul><li>dockerio</li></ul> |
 > 
@@ -38,8 +38,8 @@ collapse: open
 > | [[exploit from kali/djinn 3 walkthrough.md\|djinn 3 walkthrough]]                   | \-     | <ul><li>walkthrought</li><li>vulnhub</li></ul>                            |
 > | [[exploit from kali/Earth -vulnhub.md\|Earth -vulnhub]]                             | \-     | <ul><li>getfullshell</li><li>vulnhub</li><li>walkthrought</li></ul>       |
 > | [[exploit from kali/exploit win7.md\|exploit win7]]                                 | \-     | <ul><li>metasploit</li><li>encrypt-decrpyt</li><li>walkthrought</li></ul> |
-> | [[exploit from kali/Golden Eye Vulnerability.md\|Golden Eye Vulnerability]]         | \-     | vulnhub,walkthrought                                                      |
 > | [[exploit from kali/Fake Message sms (setoolkit).md\|Fake Message sms (setoolkit)]] | \-     | walkthrought                                                              |
+> | [[exploit from kali/Golden Eye Vulnerability.md\|Golden Eye Vulnerability]]         | \-     | vulnhub,walkthrought                                                      |
 > 
 { .block-language-dataview}
 
@@ -48,32 +48,32 @@ collapse: open
 >  | File                                                                                                                               | length | tags     |
 > | ---------------------------------------------------------------------------------------------------------------------------------- | ------ | -------- |
 > | [[Everything About LINUX/add repo source to debian.md\|add repo source to debian]]                                                 | \-     | \-       |
+> | [[Everything About LINUX/background process & force ground kill kali linux.md\|background process & force ground kill kali linux]] | \-     | \-       |
+> | [[Everything About LINUX/bettercap on network stack.md\|bettercap on network stack]]                                               | \-     | \-       |
 > | [[Everything About LINUX/Burp suit Pro.md\|Burp suit Pro]]                                                                         | \-     | \-       |
 > | [[Everything About LINUX/change username in kali.md\|change username in kali]]                                                     | \-     | \-       |
-> | [[Everything About LINUX/bettercap on network stack.md\|bettercap on network stack]]                                               | \-     | \-       |
-> | [[Everything About LINUX/background process & force ground kill kali linux.md\|background process & force ground kill kali linux]] | \-     | \-       |
 > | [[Everything About LINUX/crontab schedule.md\|crontab schedule]]                                                                   | \-     | \-       |
 > | [[Everything About LINUX/Disk Expand  Kali Linux.md\|Disk Expand  Kali Linux]]                                                     | \-     | \-       |
 > | [[Everything About LINUX/Fix Repository Does Not Have Release File Error.md\|Fix Repository Does Not Have Release File Error]]     | \-     | \-       |
 > | [[Everything About LINUX/essential Command Line setup linux guide.md\|essential Command Line setup linux guide]]                   | \-     | \-       |
 > | [[Everything About LINUX/Free contrib  and repo.md\|Free contrib  and repo]]                                                       | \-     | \-       |
-> | [[Everything About LINUX/How to install Tar.gz programs in Linux.md\|How to install Tar.gz programs in Linux]]                     | \-     | \-       |
 > | [[Everything About LINUX/Get Terminal pro.md\|Get Terminal pro]]                                                                   | \-     | \-       |
 > | [[Everything About LINUX/How to fix Ubuntu apt-get stuck at 0.md\|How to fix Ubuntu apt-get stuck at 0]]                           | \-     | \-       |
-> | [[Everything About LINUX/Kali purple Tools install.md\|Kali purple Tools install]]                                                 | \-     | \-       |
-> | [[Everything About LINUX/kali fix ip address if not obtain ip.md\|kali fix ip address if not obtain ip]]                           | \-     | \-       |
 > | [[Everything About LINUX/java installion jdk8.md\|java installion jdk8]]                                                           | \-     | Java     |
+> | [[Everything About LINUX/How to install Tar.gz programs in Linux.md\|How to install Tar.gz programs in Linux]]                     | \-     | \-       |
 > | [[Everything About LINUX/linux network address ရယူနည်း.md\|linux network address ရယူနည်း]]                                         | \-     | \-       |
+> | [[Everything About LINUX/kali fix ip address if not obtain ip.md\|kali fix ip address if not obtain ip]]                           | \-     | \-       |
 > | [[Everything About LINUX/MAC changer.md\|MAC changer]]                                                                             | \-     | \-       |
-> | [[Everything About LINUX/mount iso.md\|mount iso]]                                                                                 | \-     | \-       |
 > | [[Everything About LINUX/mount nfs and cifs.md\|mount nfs and cifs]]                                                               | \-     | cifs-nfs |
+> | [[Everything About LINUX/Kali purple Tools install.md\|Kali purple Tools install]]                                                 | \-     | \-       |
+> | [[Everything About LINUX/mount iso.md\|mount iso]]                                                                                 | \-     | \-       |
 > | [[Everything About LINUX/network respring or restart  network device.md\|network respring or restart  network device]]             | \-     | \-       |
 > | [[Everything About LINUX/plug in for network manager.md\|plug in for network manager]]                                             | \-     | \-       |
-> | [[Everything About LINUX/sudo tweek.md\|sudo tweek]]                                                                               | \-     | \-       |
 > | [[Everything About LINUX/Switching Desktop Environments.md\|Switching Desktop Environments]]                                       | \-     | \-       |
+> | [[Everything About LINUX/sudo tweek.md\|sudo tweek]]                                                                               | \-     | \-       |
 > | [[Everything About LINUX/tor browser install and tip proxychains.md\|tor browser install and tip proxychains]]                     | \-     | \-       |
-> | [[Everything About LINUX/VMWARE SHARE FOLDER IN KALI-LINUX.md\|VMWARE SHARE FOLDER IN KALI-LINUX]]                                 | \-     | \-       |
 > | [[Everything About LINUX/Transfer audio to pc.md\|Transfer audio to pc]]                                                           | \-     | ffmpeg   |
+> | [[Everything About LINUX/VMWARE SHARE FOLDER IN KALI-LINUX.md\|VMWARE SHARE FOLDER IN KALI-LINUX]]                                 | \-     | \-       |
 > | [[Everything About LINUX/wsl install on windows.md\|wsl install on windows]]                                                       | \-     | \-       |
 > 
 { .block-language-dataview}
