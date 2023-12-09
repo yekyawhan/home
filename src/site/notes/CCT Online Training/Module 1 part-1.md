@@ -90,7 +90,7 @@
 >>7 Defacement Trojans 
 >>8 Service Protocol Trojans
 >>9 Mobile Trojans  
->>10 loT Trojans
+>>10 IoT Trojans
 >>11 Security Software Disabler Trojans
 >>12 Destructive Trojans
 >>13 DDoS Attack Trojans
@@ -208,7 +208,6 @@
 >>🐛 Manero
 >>🐛 Bondat 
 >>🐛 Beapy
-
 ---
 ## Worm & Virus နှိုင်းယှဉ်ချက်
 >[!multi-column]
