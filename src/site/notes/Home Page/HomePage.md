@@ -24,8 +24,8 @@ collapse: open
 >  | File                                                                 | Auther | tags                       |
 > | -------------------------------------------------------------------- | ------ | -------------------------- |
 > | [[Docker/Adguard on docker.md\|Adguard on docker]]                   | y3kh   | <ul><li>dockerio</li></ul> |
-> | [[Docker/Calibre Web For Ebook Read.md\|Calibre Web For Ebook Read]] | \-     | <ul><li>dockerio</li></ul> |
 > | [[Docker/alpine setup indocker.md\|alpine setup indocker]]           | \-     | dockerio                   |
+> | [[Docker/Calibre Web For Ebook Read.md\|Calibre Web For Ebook Read]] | \-     | <ul><li>dockerio</li></ul> |
 > | [[Docker/go2rtc.md\|go2rtc]]                                         | \-     | \-                         |
 > | [[Docker/Prowlarr  install docker.md\|Prowlarr  install docker]]     | \-     | <ul><li>dockerio</li></ul> |
 > 
@@ -54,23 +54,23 @@ collapse: open
 > | [[Everything About LINUX/change username in kali.md\|change username in kali]]                                                     | \-     | \-       |
 > | [[Everything About LINUX/crontab schedule.md\|crontab schedule]]                                                                   | \-     | \-       |
 > | [[Everything About LINUX/Disk Expand  Kali Linux.md\|Disk Expand  Kali Linux]]                                                     | \-     | \-       |
-> | [[Everything About LINUX/Fix Repository Does Not Have Release File Error.md\|Fix Repository Does Not Have Release File Error]]     | \-     | \-       |
 > | [[Everything About LINUX/essential Command Line setup linux guide.md\|essential Command Line setup linux guide]]                   | \-     | \-       |
+> | [[Everything About LINUX/Fix Repository Does Not Have Release File Error.md\|Fix Repository Does Not Have Release File Error]]     | \-     | \-       |
 > | [[Everything About LINUX/Free contrib  and repo.md\|Free contrib  and repo]]                                                       | \-     | \-       |
 > | [[Everything About LINUX/Get Terminal pro.md\|Get Terminal pro]]                                                                   | \-     | \-       |
 > | [[Everything About LINUX/How to fix Ubuntu apt-get stuck at 0.md\|How to fix Ubuntu apt-get stuck at 0]]                           | \-     | \-       |
-> | [[Everything About LINUX/java installion jdk8.md\|java installion jdk8]]                                                           | \-     | Java     |
 > | [[Everything About LINUX/How to install Tar.gz programs in Linux.md\|How to install Tar.gz programs in Linux]]                     | \-     | \-       |
-> | [[Everything About LINUX/linux network address ရယူနည်း.md\|linux network address ရယူနည်း]]                                         | \-     | \-       |
+> | [[Everything About LINUX/java installion jdk8.md\|java installion jdk8]]                                                           | \-     | Java     |
 > | [[Everything About LINUX/kali fix ip address if not obtain ip.md\|kali fix ip address if not obtain ip]]                           | \-     | \-       |
-> | [[Everything About LINUX/MAC changer.md\|MAC changer]]                                                                             | \-     | \-       |
-> | [[Everything About LINUX/mount nfs and cifs.md\|mount nfs and cifs]]                                                               | \-     | cifs-nfs |
 > | [[Everything About LINUX/Kali purple Tools install.md\|Kali purple Tools install]]                                                 | \-     | \-       |
+> | [[Everything About LINUX/linux network address ရယူနည်း.md\|linux network address ရယူနည်း]]                                         | \-     | \-       |
+> | [[Everything About LINUX/MAC changer.md\|MAC changer]]                                                                             | \-     | \-       |
 > | [[Everything About LINUX/mount iso.md\|mount iso]]                                                                                 | \-     | \-       |
+> | [[Everything About LINUX/mount nfs and cifs.md\|mount nfs and cifs]]                                                               | \-     | cifs-nfs |
 > | [[Everything About LINUX/network respring or restart  network device.md\|network respring or restart  network device]]             | \-     | \-       |
 > | [[Everything About LINUX/plug in for network manager.md\|plug in for network manager]]                                             | \-     | \-       |
-> | [[Everything About LINUX/Switching Desktop Environments.md\|Switching Desktop Environments]]                                       | \-     | \-       |
 > | [[Everything About LINUX/sudo tweek.md\|sudo tweek]]                                                                               | \-     | \-       |
+> | [[Everything About LINUX/Switching Desktop Environments.md\|Switching Desktop Environments]]                                       | \-     | \-       |
 > | [[Everything About LINUX/tor browser install and tip proxychains.md\|tor browser install and tip proxychains]]                     | \-     | \-       |
 > | [[Everything About LINUX/Transfer audio to pc.md\|Transfer audio to pc]]                                                           | \-     | ffmpeg   |
 > | [[Everything About LINUX/VMWARE SHARE FOLDER IN KALI-LINUX.md\|VMWARE SHARE FOLDER IN KALI-LINUX]]                                 | \-     | \-       |
