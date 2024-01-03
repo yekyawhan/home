@@ -30,8 +30,13 @@ sudo snap install telegram-desktop
 	
 	smbmap -H 192.168.0.108
 	
+	#httpserver
 	python 2 — python -m SimpleHTTPServer 8000
 	Python3 —m http.server 8080
+	python -m SimpleHTTPServer
+	updog -ssl
+	updog -p 80 --password test
+	
 
 * remote desktop for kali*
 ```
